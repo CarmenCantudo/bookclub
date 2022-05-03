@@ -9,4 +9,18 @@
 body {
     font-family: Roboto, sans-serif;
     font-weight: 300;
+    color: 3a3a3a;
+}
+
+/* Headings and logo */
+
+h1, h2 {
+    font-family: Playfair Display, sans-serif;
+    letter-spacing: 1px;
+    color: #0f0f0f;
+}
+
+#logo {
+    float: left;
+    font-size: 280%;
 }
