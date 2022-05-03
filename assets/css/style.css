@@ -58,3 +58,33 @@ h1, h2 {
 .active {
     border-bottom: 1px solid;
 }
+
+/* Hero image */
+
+#hero-outer {
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#hero-image {
+    height: 500px;
+    width: 100%;
+    background: url('../images/book-shelf-lights.jpg') no-repeat center center;
+
+    /* Animates zoom effect on loading page */
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/* Creates the level of zoom for hero image */
+
+@keyframes hero-zoom {
+    from {
+        transform: scale(1.1);
+    }
+    to {
+        transform: scale(1);
+    }
+}
