@@ -65,6 +65,9 @@ h1, h2 {
     height: 500px;
     width: 100%;
     overflow: hidden;
+
+    /* Change position to relative and cover-text to absolute to get it fixed in the section. */
+    position: relative;
 }
 
 #hero-image {
@@ -87,4 +90,29 @@ h1, h2 {
     to {
         transform: scale(1);
     }
+}
+
+/* Text over hero image */
+
+#cover-text, #cover-text h2 {
+    color: #fff;
+}
+
+#cover-text {
+    font-size: 130%;
+    font-family: Playfair Display, sans-serif;
+    letter-spacing: 2px;
+
+    width: 500px;
+    height: 150px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgb(151,107,92, .7);
+    
+    bottom: 30px;
+    right: 150px;
+
+    position: absolute;
 }
