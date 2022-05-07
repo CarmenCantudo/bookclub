@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Playfair+Display:ital,wght@1,500&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Playfair+Display:ital,wght@1,500&family=Roboto&family=Special+Elite&display=swap');
 
 * {
     margin: 0;
@@ -33,7 +33,7 @@ h1, h2 {
 /* Navigation links */
 
 #menu {
-    font-family: Cutive Mono, sans-serif;
+    font-family: Special Elite, sans-serif;
     text-align: right;
     font-size: 130%;
     letter-spacing: 2px;
