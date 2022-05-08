@@ -15,7 +15,7 @@ body {
 /* Headings and logo */
 
 header {
-    background-color: #9ED8DB;
+    background-color: #b5ecec;
 }
 
 h1, h2 {
@@ -114,7 +114,7 @@ h1, h2 {
     padding-top: 40px;
     padding-left: 20px;
 
-    background-color: rgb(158,216,219, .7);
+    background-color: rgb(181,236,236, .7);
     bottom: 0px;
 
     position: absolute;
@@ -126,9 +126,6 @@ h1, h2 {
     max-width: 100%;
 	height: auto;
 	padding: 50px 15%;
-}
-
-#intro-text {
     font-size: larger;
     line-height: 25px;
     text-align: justify;
@@ -140,6 +137,35 @@ h1, h2 {
 
 /* next reading */
 
-#next-reading{
+#intro-book{
+    background-color: #fbe7d2;
+}
 
+#next-reading{
+    max-width: 100%;
+	height: auto;
+	padding: 20px 15%;
+    text-align: justify;
+}
+
+#book-img{
+    width: 30%;
+    padding: 20px 20px 0 0;
+    float: left;
+}
+
+#book-img > img {
+    width: 70%;
+}
+
+#book-description{
+    padding: 20px 0;
+    float: right;
+}
+
+
+/* Footer */
+
+footer{
+    background-color: #b5ecec;
 }
