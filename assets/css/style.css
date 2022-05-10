@@ -14,7 +14,8 @@ body {
 /* Headings and logo */
 
 header {
-    background-color: #b5ecec;
+    background-color: #FEEEDF;
+    overflow: auto;
 }
 
 h1, h2 {
@@ -115,7 +116,7 @@ h1, h2 {
     padding-top: 40px;
     padding-left: 20px;
 
-    background-color: rgb(181,236,236, .7);
+    background-color: rgb(254,238,223, .7);
     bottom: 0px;
 
     position: absolute;
@@ -139,7 +140,7 @@ h1, h2 {
 /* next reading */
 
 #intro-book{
-    background-color: #fbe7d2;
+    background-color: #FEEEDF;
 }
 
 #title-line{
@@ -153,10 +154,11 @@ h1, h2 {
     text-align: justify;
     display: flex;
     align-items: center;
+    overflow: auto;
 }
 
 #book-img{
-    width: 25%;
+    width: 20%;
     padding-right: 20px;
 }
 
@@ -166,7 +168,7 @@ h1, h2 {
 
 #book-description{
     padding: 20px 0;
-    width: 75%;
+    width: 80%;
     font-family: 'Amiri', serif;
     line-height: 25px;
     color: black;
@@ -177,4 +179,18 @@ h1, h2 {
 
 footer{
     background-color: #b5ecec;
+}
+
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    align-items:center;
+    justify-content: space-around;
+}
+
+#footer-menu {
+    display: flex;
+    text-decoration: none;
+    flex-flow: column wrap;
+    align-items: left;
 }
