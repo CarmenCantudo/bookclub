@@ -77,7 +77,7 @@ h1, h2 {
 }
 
 #hero-image {
-    height: 500px;
+    height: 100%;
     width: 100%;
     background: url('https://res.cloudinary.com/djwxldbab/image/upload/v1652028592/bookclub/book-shelf-lights_x303ao.jpg') no-repeat center center;
 
@@ -113,13 +113,14 @@ h1, h2 {
     width: 100%;
     height: 100px;
 
-    padding-top: 40px;
+    padding-top: 40px ;
     padding-left: 20px;
 
     background-color: rgb(254,238,223, .7);
     bottom: 0px;
 
     position: absolute;
+
 }
 
 /* Intro */
@@ -198,4 +199,20 @@ footer{
 .footer-container a:hover {
     font-size: 32px;
     color: #335670;
+}
+
+/**** Books page ****/
+
+/* Hero image */
+
+#hero-image-books {
+    height: 500px;
+    width: 100%;
+    background: url('https://res.cloudinary.com/djwxldbab/image/upload/v1652202949/bookclub/book-stack_f5pc8j.jpg') no-repeat center center;
+    
+
+    /* Animates zoom effect on loading page */
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
 }
