@@ -181,16 +181,21 @@ footer{
     background-color: #b5ecec;
 }
 
-.flex-container {
+.footer-container {
+    padding: 10px 15%;
     display: flex;
-    flex-flow: row wrap;
-    align-items:center;
-    justify-content: space-around;
+    flex-direction: row;
+    justify-content:center;
+    gap: 10%;
+    font-size: 30px;
 }
 
-#footer-menu {
-    display: flex;
+.footer-container a {
+    color: #467599;
     text-decoration: none;
-    flex-flow: column wrap;
-    align-items: left;
+}
+
+.footer-container a:hover {
+    font-size: 32px;
+    color: #335670;
 }
