@@ -144,7 +144,7 @@ h1, h2 {
     background-color: #FEEEDF;
 }
 
-#title-line{
+.title-line{
 	padding: 20px 15%;
 }
 
@@ -207,9 +207,9 @@ footer{
 
 #hero-image-books {
     height: 500px;
-    width: 100%;
-    background: url('https://res.cloudinary.com/djwxldbab/image/upload/v1652202949/bookclub/book-stack_f5pc8j.jpg') no-repeat center center;
-    
+    max-width: 100%;
+    background: url('https://res.cloudinary.com/djwxldbab/image/upload/v1652309964/bookclub/open-book_jbvujm.jpg') no-repeat center center;
+    display: block;
 
     /* Animates zoom effect on loading page */
     animation-name: hero-zoom;
