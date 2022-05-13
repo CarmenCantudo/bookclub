@@ -288,3 +288,8 @@ footer{
     font-size: 1vw;
     letter-spacing: -5px;
 }
+
+.month {
+    font-size: 0.9vw;
+    letter-spacing: normal;
+}
