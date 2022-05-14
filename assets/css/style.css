@@ -87,11 +87,10 @@ hr {
     position: relative;
 }
 
-#hero-image {
+#hero-image, #hero-image-books, #hero-image-meetups {
     height: 100%;
     width: 100%;
-    background: url('https://res.cloudinary.com/djwxldbab/image/upload/v1652028592/bookclub/book-shelf-lights_x303ao.jpg') no-repeat center center;
-
+    
     /* Animates zoom effect on loading page */
     animation-name: hero-zoom;
     animation-duration: 5s;
@@ -107,6 +106,11 @@ hr {
     to {
         transform: scale(1);
     }
+}
+
+#hero-image {
+    background: url('https://res.cloudinary.com/djwxldbab/image/upload/v1652028592/bookclub/book-shelf-lights_x303ao.jpg') no-repeat center center;
+    background-size: cover;
 }
 
 /* Text over hero image */
@@ -177,7 +181,7 @@ hr {
     width: 100%;
 }
 
-#book-description{
+#book-description {
     padding: 20px 0;
     width: 80%;
     font-family: 'Amiri', serif;
@@ -188,7 +192,7 @@ hr {
 
 /* Footer */
 
-footer{
+footer {
     background-color: #b5ecec;
     margin-top:auto;
     display: flex;
@@ -219,15 +223,8 @@ footer{
 /* Hero image */
 
 #hero-image-books {
-    height: 500px;
-    max-width: 100%;
     background: url('https://res.cloudinary.com/djwxldbab/image/upload/v1652309964/bookclub/open-book_jbvujm.jpg') no-repeat center center;
-    display: block;
-
-    /* Animates zoom effect on loading page */
-    animation-name: hero-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
+    background-size: cover;
 }
 
 /* Books gallery */
@@ -292,4 +289,11 @@ footer{
 .month {
     font-size: 0.9vw;
     letter-spacing: normal;
+}
+
+/**** Meetups page ****/
+/* Hero image */
+#hero-image-meetups {
+    background: url('https://res.cloudinary.com/djwxldbab/image/upload/v1652554874/bookclub/black-spectacles-otop-an-open-book_tspy6p.jpg') no-repeat center center;
+    background-size: cover;
 }
