@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@500&family=Amiri&family=Playfair+Display:ital,wght@0,400;1,500&family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri&family=Noto+Sans:wght@200;300;400&family=Playfair+Display:ital,wght@0,400;1,500&family=Special+Elite&display=swap');
 
 * {
     margin: 0;
@@ -7,7 +7,8 @@
 }
 
 body {
-    font-family: 'Alegreya Sans', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 300;
     color: #3a3a3a;
 }
 
@@ -139,7 +140,6 @@ hr {
     max-width: 100%;
 	height: auto;
 	padding: 50px 15%;
-    font-size: larger;
     line-height: 25px;
     text-align: justify;
 }
@@ -236,7 +236,7 @@ footer{
     margin-left: 15%;
     margin-right: 15%;
     padding-bottom: 20%;
-  }
+}
 
 .book-gallery {
     position: relative;
