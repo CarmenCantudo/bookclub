@@ -193,7 +193,7 @@ hr {
     padding: 20px 0;
     width: 80%;
     font-family: 'Amiri', serif;
-    line-height: 25px;
+    line-height: 30px;
     color: black;
 }
 
@@ -466,7 +466,7 @@ footer {
 /* Thank you page */
 
 .thankyou {
-    height: 300px;
+    padding: 20px;
 }
 
 .thankyou p {
