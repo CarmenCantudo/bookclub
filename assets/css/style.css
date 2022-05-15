@@ -166,7 +166,7 @@ hr {
 }
 
 .title-line{
-	padding: 20px 15%;
+	padding: 50px 15% 10px;
     text-align: center;
 }
 
@@ -186,6 +186,7 @@ hr {
 
 #book-img > img {
     width: 75%;
+    padding-bottom: 20px;
 }
 
 #book-description {
