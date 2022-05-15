@@ -201,7 +201,7 @@ hr {
 /* Footer */
 
 footer {
-    background-color: #b5ecec;
+    background-color: #FEEEDF;
     margin-top:auto;
     display: flex;
     justify-content:center;
@@ -217,13 +217,13 @@ footer {
 }
 
 .footer-container a {
-    color: #467599;
+    color: #825E6E;
     text-decoration: none;
 }
 
 .footer-container a:hover {
     font-size: 32px;
-    color: #335670;
+    color: #A27E8E;
 }
 
 /**** Books page ****/
@@ -315,10 +315,58 @@ footer {
 
 .meet-icon {
     font-size: 30px;
-    color: #467599;
+    color: #825E6E;
 }
 
 .col-2 div {
     text-align: center;
     width: 45%;
+}
+
+/* Meeting days and times */
+
+.meetups{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.meetups h2 {
+    font-family: Playfair Display, serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.lifeofpi, .goodomens {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 25%;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    background-color: #DDD0D6;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+}
+
+.lifeofpi div, .goodomens div {
+    padding: 30px 10px;
+}
+
+#after-meeting {
+    text-align: center;
+    padding: 10%;
+    background-image: url('https://res.cloudinary.com/djwxldbab/image/upload/v1652623325/bookclub/books-meetups_hntjyc.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#after-meeting p {
+    font-size: 24px;
+    font-family: Playfair Display, serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 50px;
 }
