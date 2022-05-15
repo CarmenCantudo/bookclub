@@ -162,7 +162,7 @@ hr {
 /* next reading */
 
 #intro-book{
-    background-color: #FEEEDF;
+    background-color: #E6DBE0;
 }
 
 .title-line{
@@ -182,11 +182,10 @@ hr {
 
 #book-img{
     width: 20%;
-    padding-right: 20px;
 }
 
 #book-img > img {
-    width: 100%;
+    width: 75%;
 }
 
 #book-description {
