@@ -381,3 +381,55 @@ footer {
     background: url('https://res.cloudinary.com/djwxldbab/image/upload/v1652626308/bookclub/tea-books-hero_rkxfge.jpg') no-repeat center center;
     background-size: cover;
 }
+
+.joinus {
+    text-align: center;
+    padding: 30px;
+}
+
+.contact {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+
+.contact-form {
+    background-color: rgba(238, 231, 234, 0.6);
+    max-width: 400px;
+    left: 10%;
+    padding: 30px;
+}
+
+.text-input {
+    background: transparent;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #E6DBE0;
+    border-radius: 2px;
+}
+
+.text-input:hover {
+    border-color: #825E6E;
+}
+
+#comments {
+    height: 50px;
+}
+
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #A27E8E;
+    color: #fafafa;
+    display: block;
+}
+
+.join-button:hover {
+    background-color: #fafafa;
+    color: #825E6E;
+    border: 1px solid #825E6E;
+}

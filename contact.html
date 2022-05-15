@@ -41,16 +41,33 @@
     <section id="hero-outer">
         <div id="hero-image-contact"></div>
         <div id="cover-text">
-            <h2>A modern online book club for readers all over the world!</h2>
+            <h2>“Books + friendship = book club” ― Kristin Hannah</h2>
         </div>
     </section>
     <!-- Intro text -->
     <section>
-        <div id="intro-text">
-            <p>This club wants to bring together book lovers of all interests and tastes in a virtual place where we can
-                discuss our experiences with a literary work.</p>
+        <div>
+            <h2 class="joinus">Join us!</h2>
+            <div class="contact">
+                <form method="POST" action="https://formdump.codeinstitute.net/" class="contact-form">
+                    <label for="fname">First Name</label>
+                    <input class="text-input" id="fname" name="first_name" type="text" required>
+
+                    <label for="lname">Last Name</label>
+                    <input class="text-input" id="lname" name="last_name" type="text" required>
+
+                    <label for="email">Email Address</label>
+                    <input class="text-input" type="email" id="email" name="email_address" required>
+
+                    <label for="comments">Comments</label>
+                    <textarea class="text-input" id="comments" name="comments"></textarea>
+
+                    <input class="join-button" type="submit" value="Send!">
+                </form>
+            </div>
         </div>
     </section>
+
     <!-- Footer -->
     <footer>
         <div class="footer-container">
