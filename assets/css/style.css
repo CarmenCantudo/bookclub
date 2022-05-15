@@ -309,6 +309,7 @@ footer {
 .col-2 {
     display: flex;
     flex-flow: row wrap;
+    width: 100%;
     justify-content: space-around;
 }
 
@@ -319,5 +320,5 @@ footer {
 
 .col-2 div {
     text-align: center;
-    width: 50%;
+    width: 45%;
 }
