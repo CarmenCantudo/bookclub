@@ -341,9 +341,12 @@ footer {
     background-size: cover;
     background-position: center;
     width: 25%;
+    
     display: flex;
     flex-flow: row wrap;
     align-items: center;
+    justify-content: center;
+
     background-color: #DDD0D6;
     text-align: center;
     border: 2px solid white;
@@ -357,7 +360,7 @@ footer {
 #after-meeting {
     text-align: center;
     padding: 10%;
-    background-image: url('https://res.cloudinary.com/djwxldbab/image/upload/v1652623325/bookclub/books-meetups_hntjyc.jpg');
+    background-image: url('https://res.cloudinary.com/djwxldbab/image/upload/v1652632686/bookclub/books-meetup-bakground_b2ygsr.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
