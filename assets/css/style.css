@@ -12,6 +12,10 @@ body {
     color: #3a3a3a;
 }
 
+.center {
+    text-align: center;
+}
+
 /* Headings and logo */
 
 header {
@@ -163,6 +167,7 @@ hr {
 
 .title-line{
 	padding: 20px 15%;
+    text-align: center;
 }
 
 #next-reading{
@@ -305,4 +310,14 @@ footer {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
+}
+
+.meet-icon {
+    font-size: 30px;
+    color: #467599;
+}
+
+.col-2 div {
+    text-align: center;
+    width: 50%;
 }
