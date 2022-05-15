@@ -462,3 +462,31 @@ footer {
     color: #825E6E;
     border: 1px solid #825E6E;
 }
+
+/* Thank you page */
+
+.thankyou {
+    height: 300px;
+}
+
+.thankyou p {
+    text-align: center;
+    line-height: 35px;
+}
+
+#share-social {
+    text-align: center;
+    font-size: 40px;
+    color: #A27E8E;
+    padding: 20px;
+}
+
+#share-social a {
+    color: #A27E8E;
+    text-decoration: none;
+    padding: 20px;
+}
+
+#share-social a:hover {
+    color: #825E6E;
+}
