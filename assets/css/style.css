@@ -382,9 +382,38 @@ footer {
     background-size: cover;
 }
 
-.joinus {
+/* Reviews */
+
+#reviews {
+	padding: 50px 15%;
+    line-height: 25px;
+}
+
+#reviews h2 {
     text-align: center;
     padding: 30px;
+}
+
+.review-left {
+    float: left;
+}
+
+.review-right {
+    float: right;
+    text-align: right;
+}
+
+.review-left, .review-right {
+    width: 75%;
+    padding-bottom: 20px;
+}
+
+/* Form */
+
+.joinus {
+    clear: both;
+    text-align: center;
+    padding: 40px;
 }
 
 .contact {
@@ -432,30 +461,4 @@ footer {
     background-color: #fafafa;
     color: #825E6E;
     border: 1px solid #825E6E;
-}
-
-/* Reviews */
-
-#reviews {
-	padding: 50px 15%;
-    line-height: 25px;
-}
-
-#reviews h2 {
-    text-align: center;
-    padding: 30px;
-}
-
-.review-left {
-    float: left;
-}
-
-.review-right {
-    float: right;
-    text-align: right;
-}
-
-.review-left, .review-right {
-    width: 75%;
-    padding-bottom: 20px;
 }
