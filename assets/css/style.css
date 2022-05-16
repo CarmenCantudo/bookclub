@@ -43,8 +43,9 @@ hr {
 
 #logo {
     float: left;
-    font-size: 280%;
+    width: 100px;
     margin-left: 30px;
+    padding: 10px 0;
 }
 
 /* Navigation links */
@@ -56,7 +57,7 @@ hr {
     letter-spacing: 2px;
 }
 
-#menu, #logo {
+#menu {
     line-height: 75px;
 }
 
