@@ -95,6 +95,7 @@ hr {
 #hero-image, #hero-image-books, #hero-image-meetups, #hero-image-contact {
     height: 100%;
     width: 100%;
+    background-color: #FEEEDF;
     
     /* Animates zoom effect on loading page */
     animation-name: hero-zoom;
