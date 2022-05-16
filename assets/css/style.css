@@ -235,6 +235,16 @@ footer {
     background-size: cover;
 }
 
+#booklist {
+    text-decoration: none;
+    color: #000000;
+}
+
+#booklist:hover {
+    font-weight: bold;
+    color: #A27E8E;
+}
+
 /* Books gallery */
 
 .book-container {
