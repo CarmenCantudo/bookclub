@@ -518,6 +518,15 @@ footer {
     .book-gallery {
         width: 20%;
     }
+
+    /* Books */
+    .text-over-img {
+        font-size: 1.4vw;
+    }
+
+    .month, .text-over-img i {
+        font-size: 1.3vw;
+    }
 }
 
 @media screen and (max-width: 992px) {
@@ -547,6 +556,11 @@ footer {
 
     .month, .text-over-img i {
         font-size: 1.5vw;
+    }
+
+    /* Meetups */
+    #cover-text {
+        height: auto;
     }
 }
 
@@ -580,6 +594,20 @@ footer {
     .month, .text-over-img i {
         font-size: 1.7vw;
     }
+
+    /* Meetups */
+    .meetups h2 {
+        font-size: 2.6vw;
+    }
+
+    .meetups h3 {
+        font-size: 2vw;
+    }
+
+    #after-meeting p {
+        line-height: 34px;
+        padding-bottom: 10px;
+    }
 }
 
 @media screen and (max-width: 690px) {
@@ -601,6 +629,19 @@ footer {
     .month, .text-over-img i {
         font-size: 1.7vw;
     }
+
+    /* Meetups */
+    .lifeofpi, .goodomens {
+        width: 50%;
+    }
+
+    .meetups h2 {
+        font-size: 3vw;
+    }
+
+    .meetups h3 {
+        font-size: 2.5vw;
+    }
 }
 
 @media screen and (max-width: 550px) {
@@ -620,5 +661,29 @@ footer {
 
     .month, .text-over-img i {
         font-size: 2.4vw;
+    }
+
+    /* Meetups */
+    .col-2 {
+        flex-direction: column;
+    }
+
+    .col-2 div {
+        text-align: justify;
+        width: 100%;
+        padding-bottom: 20px;
+    }
+
+    .col-2 i {
+        float: left;
+        padding-right: 10px;
+    }
+
+    .meetups h2 {
+        font-size: 4vw;
+    }
+
+    .meetups h3 {
+        font-size: 3.2vw;
     }
 }
