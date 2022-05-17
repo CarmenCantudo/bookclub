@@ -379,6 +379,7 @@ footer {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    background-color: #EEE7EA;
 }
 
 #after-meeting p {
