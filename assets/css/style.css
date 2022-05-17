@@ -203,10 +203,12 @@ hr {
 /* Footer */
 
 footer {
+    height: 100px;
     background-color: #FEEEDF;
     margin-top:auto;
     display: flex;
     justify-content:center;
+    align-items: center;
     clear: both;
 }
 
