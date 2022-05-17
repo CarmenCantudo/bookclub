@@ -212,20 +212,21 @@ footer {
 
 .footer-container {
     padding: 10px 15%;
+    display: flex;
     flex-direction: row;
     justify-content:center;
-    gap: 10%;
+    gap: 100%;
     font-size: 30px;
 }
 
 .footer-container a {
-    color: #825E6E;
+    color: #A27E8E;
     text-decoration: none;
 }
 
 .footer-container a:hover {
     font-size: 32px;
-    color: #A27E8E;
+    text-shadow: 2px 2px 2px rgb(130, 94, 110);
 }
 
 /**** Books page ****/
