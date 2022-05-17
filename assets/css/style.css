@@ -255,13 +255,17 @@ footer {
 .book-container {
     margin-left: 15%;
     margin-right: 15%;
-    padding-bottom: 20%;
+}
+
+.book-images {
+    display: flex;
+    flex-flow: row wrap;
 }
 
 .book-gallery {
-    position: relative;
     width: 16.6%;
-    float: left;
+    margin-bottom: 10px;
+    position: relative;
 }
 
 .image-book {
@@ -505,4 +509,40 @@ footer {
 
 #share-social a:hover {
     color: #825E6E;
+}
+
+/* Media queries */
+
+@media screen and (max-width: 992px) {
+    #book-img > img {
+        width: 100%;
+    }
+
+    #book-description {
+        padding-left: 20px;
+    }
+
+    .review-left, .review-right {
+        width: 100%;
+        padding-bottom: 20px;
+        text-align: left;
+    }
+}
+
+@media screen and (max-width: 792px) {
+    #next-reading {
+        flex-direction: column;
+    }
+
+    #book-img {
+        width: 35%;
+    }
+
+    #book-img > img {
+        padding-bottom: 0;
+    }
+}
+
+@media screen and (max-width: 650px) {
+
 }
