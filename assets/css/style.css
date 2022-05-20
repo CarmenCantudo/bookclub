@@ -50,36 +50,44 @@ hr {
 
 /* Navigation links */
 
-#menu {
+nav {
     font-family: Special Elite, sans-serif;
     text-align: right;
+}
+  
+#menu {
     font-size: 130%;
     letter-spacing: 2px;
-}
-
-#menu {
+    margin-right: 30px;
     line-height: 75px;
 }
 
-#menu > li {
-    display: inline;
-    margin: 1%;
-    padding: 1%;
-    color: #3a3a3a;
-}
-
 #menu a {
+    display: inline;
+    color: #3a3a3a;
     text-decoration: none;
     color: inherit;
+    margin: 0 10px;
 }
 
 #menu a:hover {
     border-bottom: 1px solid;
 }
 
+label {
+  margin-right: 40px;
+  font-size: 26px;
+  display: none;
+}
+
+#toggle {
+  display: none;
+}
+
 .active {
     border-bottom: 1px solid;
 }
+
 
 /* Hero image */
 
@@ -645,6 +653,42 @@ footer {
 }
 
 @media screen and (max-width: 550px) {
+    /* Navigation */
+    label {
+        display: block;
+        cursor: pointer;
+        width: 26px;
+        float: right;
+        margin: 30px;
+    }
+    
+    #menu {
+        text-align: center;
+        display: none;
+        clear: both;
+        margin: 0;
+        line-height: 55px;
+    }
+    
+    #menu a {
+        clear: right;
+        display: block;
+    }
+    
+    #menu a:hover {
+        font-weight: bold;    
+        border-bottom: none;
+    }
+    
+    #toggle:checked + #menu {
+        display: block;
+    }
+    
+    .active {
+        font-weight: bold;
+        border-bottom: none;
+    }
+
     /* Home */
     #cover-text {
         height: auto;
