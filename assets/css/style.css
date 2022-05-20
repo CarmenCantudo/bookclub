@@ -650,6 +650,11 @@ footer {
     .meetups h3 {
         font-size: 2.5vw;
     }
+
+    /* Contact */
+    #hero-image-contact {
+        background-position: right;
+    }
 }
 
 @media screen and (max-width: 550px) {
