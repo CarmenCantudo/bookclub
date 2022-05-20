@@ -100,11 +100,13 @@ To stay up to date on new meeting days and current readings.
 ### Colour Scheme
 The colour scheme was designed with the goal of providing as much contrast as possible without becoming excessive. The accompanying imagery displayed across the site gives the majority of the colour.
 
+![Colour palette](assets/images/color-palette.PNG)
+
 ### Typography
-+ Playfair Display: Medium 500 Italic for quotes and regular 400 for titles
-+ Noto Sans: Light 300 for the body
++ Playfair Display: Medium 500 Italic for quotes and regular 400 for titles.
++ Noto Sans: Light 300 for the body.
 + Special Elite: it mimics a typewriter and it’s used on the navigation menu.
-+ Amiri: For book descriptions
++ Amiri: For book descriptions.
 
 ### Imagery
 The site's imagery was gathered from free stock photo websites, and the sources are listed in the Credits section. Each photo provided supports the site's theme and reminds the user that this is a website about books and social meetings.
