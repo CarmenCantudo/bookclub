@@ -116,6 +116,29 @@ The site's imagery was gathered from free stock photo websites, and the sources 
 
 ### Unfixed Bugs
 
+## Technologies Used
+
+### Main Languages Used
+- HTML
+- CSS
+
+### Frameworks, Libraries & Programs Used
+- Gitpod: to creat my html files & styling sheet before pushing the project to Github.
+- GitHub: to store my repository for submission.
+- Balsamiq Wireframes: to make the wireframes for the website.
+Adobe Illustrator and Procreate: to create the logo.
+- Google Fonts: for the font families, Amiri, Noto Sans, Playfair Display, Special Elite.
+- Am I Responsive?: to ensure the project looked good across all devices.
+
+
+## Deployment
+- 
+- 
+- 
+
+### Issues encountered
+- 
+
 
 ## Credits
 ### Content
@@ -191,3 +214,10 @@ The book descriptions and images are taken from google books:
 
 
 Logo icon: I made it myself using Procreate to draw the animals and Illustrator to convert it to vector and add the text around it.
+
+### Resources used in the process of the Book Club design and build:
+- Flexbox: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- Navigation bar toggle: [Responsive Menu With Media Queries](https://youtu.be/xMTs8tAapnQ)
+- Books page overlay information: [Image Overlay Slide](https://www.w3schools.com/howto/howto_css_image_overlay_slide.asp)
+- Share to Social Media: [Share Link Generator](http://www.sharelinkgenerator.com/)
+
