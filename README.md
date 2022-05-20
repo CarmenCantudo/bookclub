@@ -41,7 +41,7 @@ The Book Club site is live and can be seen [HERE](https://carmencantudo.github.i
 ### Existing Features
 * Navigation Bar
 This is included on all pages and allows users to quickly navigate between the "Home", "Books", "Meetups", and "Contact" sections.
-Navigation bar image
+![Navigation bar](assets/images/navigation.PNG)
 
 * Landing page
 A picture with text overlay and a brief website description are included on the landing page. This section uses an eye-catching animation to draw the user's attention to the Book Club.
