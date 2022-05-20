@@ -6,7 +6,7 @@ The site will be targeted toward readers that need a way to escape from the rout
 
 Book Club will be useful for readers to see what book to read next and when they should be joining the next meeting to discuss about it.
 
-![Responsive web image](/workspace/bookclub/assets/wireframes/amiresponsive.PNG)
+![Responsive web image](assets/wireframes/amiresponsive.PNG)
 
 The Book Club site is live and can be seen [HERE](https://carmencantudo.github.io/bookclub/)
 
