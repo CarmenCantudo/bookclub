@@ -123,6 +123,16 @@ The basic set-up and aesthetic were based on the walk-through project "Love Runn
 
 The form element's styling in "Love Running" served as a starting point for my form, which helped me recollect all of the elements that needed to be addressed.
 
+
+### Media
+The following images are from [Pexel](https://www.pexels.com/) and [Burst](https://burst.shopify.com/):
+- Home page hero image: [Photo by Janko Ferlic - Light Inside Library](https://www.pexels.com/photo/light-inside-library-590493/)
+- Books page hero image: [Photo by Wendy van Zyl - Close up on Old Book]( https://www.pexels.com/photo/close-up-on-old-book-10506690/)
+- Meetups hero image: [Photo by Rahul Pandit](https://burst.shopify.com/photos/notebook-with-coffee-books-and-rain)
+- Meetups background image: [Photo by Suzy Hazelwood](https://www.pexels.com/photo/closeup-photo-of-assorted-title-books-1122865/)
+- Contact and Thank you page hero image: [Photo by Thought Catalog](https://www.pexels.com/photo/white-ceramic-teacup-with-saucer-near-two-books-above-gray-floral-textile-904616/)
+
+
 The book descriptions and images are taken from google books:
 
 [The Eight by Katherine Neville](https://books.google.ie/books?id=QBDGCQAAQBAJ&dq=The+Eight+Katherine+Neville)
@@ -178,3 +188,6 @@ The book descriptions and images are taken from google books:
 [Life of Pi by Yann Martel](https://books.google.ie/books?id=XJNFfSzGD0AC&source=gbs_navlinks_s)
 
 [Good Omens by Neil Gaiman and Terry Pratchett](https://books.google.ie/books?id=B7FL6zzN_FsC&source=gbs_navlinks_s)
+
+
+Logo icon: I made it myself using Procreate to draw the animals and Illustrator to convert it to vector and add the text around it.
