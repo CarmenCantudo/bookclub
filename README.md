@@ -64,10 +64,20 @@ The last section on the Home page is the What we think section, and it contains 
 ![What we think section image](assets/images/what-we-think.png)
 
 * Books Page:
-Text
-Image 
+
+The first section contains also a picture with text overlay and a quote from Mark Twain *"Good friends, good books, and a sleepy conscience: this is the ideal life."*. This section uses an eye-catching animation to draw the user's attention to the Book Club.
+
+![Opened book](assets/images/books-hero.png)
+
+Our books sections gives some information and images of the books we have read, the ratings and a list of future readings.
+
+![Our books text](assets/images/our-books.png)
+![Our books text](assets/images/books1.png)
+![Our books text](assets/images/books2.png)
+
 
 * Meetups Page:
+
 Text
 Image 
 
