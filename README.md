@@ -72,14 +72,28 @@ The first section contains also a picture with text overlay and a quote from Mar
 Our books sections gives some information and images of the books we have read, the ratings and a list of future readings.
 
 ![Our books text](assets/images/our-books.png)
-![Our books text](assets/images/books1.png)
-![Our books text](assets/images/books2.png)
+![Books images from 2022 and 2021](assets/images/books1.png)
+![Books images from 2020](assets/images/books2.png)
 
 
 * Meetups Page:
 
-Text
-Image 
+There is another picture with text overlay and a quote from Irving Stone *"There are no faster or firmer friendships than those formed between people who love the same books."* in this section that uses an eye-catching animation to draw the user's attention to the Book Club.
+
+![Coffee, notebook and text: Coffee, books and rain](assets/images/meetups-hero.png)
+
+The next section explains how we connect with each other.
+
+![Whatsapp and videocall text](assets/images/connect.png)
+
+The meetups times sections shows our next meeting sessions, the book we are reading and when we are meeting to discuss it.
+
+![Meeting days and times](assets/images/meetups-times.png)
+
+The last section has some text to get people to join and an image in the background in a fixed position.
+
+![Text](assets/images/meetups-books.png)
+
 
 * Contact Page:
 The design is minimalistic once more. There is a form for new users to contact Book Club members, as well as some comments and views from current Book Club members.
