@@ -40,16 +40,28 @@ The Book Club site is live and can be seen [HERE](https://carmencantudo.github.i
 ## Features
 ### Existing Features
 * Navigation Bar
-This is included on all pages and allows users to quickly navigate between the "Home", "Books", "Meetups", and "Contact" sections.
-![Navigation bar](assets/images/navigation.PNG)
+
+This is included on all pages and allows users to quickly navigate between the "Home", "Books", "Meetups", and "Contact" sections. It also has the logo in it.
+
+![Navigation bar](assets/images/navigation.png)
 
 * Landing page
+
 A picture with text overlay and a brief website description are included on the landing page. This section uses an eye-catching animation to draw the user's attention to the Book Club.
-Image
-The About section contains a welcome statement as well as an explanation of the club's aspirations.
-Image 
-On the Next readings section of the page we find the books we are currently reading, with an image, the description and the reading dates.
-Image 
+
+![Book shelves and lights](assets/images/landing-page-hero.png)
+
+The What we do section contains a welcome statement as well as an explanation of the club's aspirations.
+
+![What we do section image](assets/images/what-we-do.png)
+
+On the What we are reading section of the page we find the books we are currently reading, with an image and the description. This section has a different background colour to focus on it.
+
+![What we are reading section image](assets/images/what-we-are-reading.png)
+
+The last section on the Home page is the What we think section, and it contains some reviews from the club members.
+
+![What we think section image](assets/images/what-we-think.png)
 
 * Books Page:
 Text
@@ -100,7 +112,7 @@ To stay up to date on new meeting days and current readings.
 ### Colour Scheme
 The colour scheme was designed with the goal of providing as much contrast as possible without becoming excessive. The accompanying imagery displayed across the site gives the majority of the colour.
 
-![Colour palette](assets/images/color-palette.PNG)
+![Colour palette](assets/images/color-palette.png)
 
 ### Typography
 + Playfair Display: Medium 500 Italic for quotes and regular 400 for titles.
