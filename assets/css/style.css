@@ -123,7 +123,7 @@ nav {
 }
 
 #hero-image {
-    background: url('https://res.cloudinary.com/djwxldbab/image/upload/v1652028592/bookclub/book-shelf-lights_x303ao.jpg') no-repeat center center;
+    background: url('https://res.cloudinary.com/djwxldbab/image/upload/f_webp/v1652028592/bookclub/book-shelf-lights_x303ao.jpg') no-repeat center center;
     background-size: cover;
 }
 
@@ -244,7 +244,7 @@ footer {
 /* Hero image */
 
 #hero-image-books {
-    background: url('https://res.cloudinary.com/djwxldbab/image/upload/v1652309964/bookclub/open-book_jbvujm.jpg') no-repeat center center;
+    background: url('https://res.cloudinary.com/djwxldbab/image/upload/f_webp/v1652309964/bookclub/open-book_jbvujm.jpg') no-repeat center center;
     background-size: cover;
 }
 
@@ -329,7 +329,7 @@ footer {
 /**** Meetups page ****/
 /* Hero image */
 #hero-image-meetups {
-    background: url('https://res.cloudinary.com/djwxldbab/image/upload/v1652564340/bookclub/notebook-with-coffee-books-and-rain_zsijzm.jpg') no-repeat center center;
+    background: url('https://res.cloudinary.com/djwxldbab/image/upload/f_webp/v1652564340/bookclub/notebook-with-coffee-books-and-rain_zsijzm.jpg') no-repeat center center;
     background-size: cover;
 }
 
@@ -387,7 +387,7 @@ footer {
 #after-meeting {
     text-align: center;
     padding: 10%;
-    background-image: url('https://res.cloudinary.com/djwxldbab/image/upload/v1652632686/bookclub/books-meetup-bakground_b2ygsr.png');
+    background-image: url('https://res.cloudinary.com/djwxldbab/image/upload/f_webp/v1652632686/bookclub/books-meetup-bakground_b2ygsr.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -406,7 +406,7 @@ footer {
 /* Hero image */
 
 #hero-image-contact {
-    background: url('https://res.cloudinary.com/djwxldbab/image/upload/v1652626308/bookclub/tea-books-hero_rkxfge.jpg') no-repeat center center;
+    background: url('https://res.cloudinary.com/djwxldbab/image/upload/f_webp/v1652626308/bookclub/tea-books-hero_rkxfge.jpg') no-repeat center center;
     background-size: cover;
 }
 
