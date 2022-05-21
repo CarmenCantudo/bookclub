@@ -6,7 +6,9 @@ The site will target readers who need a way to escape from the routine and are l
 
 Book Club will be helpful for readers to see what book to read next and when they should be joining the next meeting to discuss it.
 
-![Responsive web image](assets/wireframes/amiresponsive.PThe Book Club site is live and can be seen <a href="https://carmencantudo.github.io/bookclub/" target="_blank">HERE!</a>
+![Responsive web image](assets/wireframes/amiresponsive.PNG)
+
+<a href="https://carmencantudo.github.io/bookclub/" target="_blank">HERE!</a>
 
 ## Table of Contents
 - [Book Club](#book-club)
