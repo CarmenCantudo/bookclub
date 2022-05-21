@@ -13,14 +13,14 @@ Book Club will be helpful for readers to see what book to read next and when the
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
     - [Existing Features](#existing-features)
-    - [Future Features:](#future-features)
+    - [Future Features](#future-features)
   - [UX](#ux)
-    - [Site Purpose:](#site-purpose)
-    - [Site Goal:](#site-goal)
-    - [Audience:](#audience)
-    - [Communication:](#communication)
-    - [Current User Goals:](#current-user-goals)
-    - [New User Goals:](#new-user-goals)
+    - [Site Purpose](#site-purpose)
+    - [Site Goal](#site-goal)
+    - [Audience](#audience)
+    - [Communication](#communication)
+    - [Current User Goals](#current-user-goals)
+    - [New User Goals](#new-user-goals)
   - [Design](#design)
     - [Colour Scheme](#colour-scheme)
     - [Typography](#typography)
@@ -36,7 +36,7 @@ Book Club will be helpful for readers to see what book to read next and when the
   - [Credits](#credits)
     - [Content](#content)
     - [Media](#media)
-    - [Resources used in the process of the Book Club design and build:](#resources-used-in-the-process-of-the-book-club-design-and-build)
+    - [Other resources](#other-resources)
 
 
 
@@ -134,28 +134,28 @@ There is also a thank you page, which appears like this:
 
 <br>
 
-### Future Features:
+### Future Features
 ???????
 
 <br>
 
 ## UX
-### Site Purpose:
+### Site Purpose
 To provide information on the Book Club, including its book selection, meeting dates, and how to join.
 
-### Site Goal:
+### Site Goal
 To keep our existing book club members up to date on the books we are reading at the moment and our following meeting dates.
 
-### Audience:
+### Audience
 Everyone who enjoys reading and wants to recover their reading habits, meet new people, and discover new books.
 
-### Communication:
+### Communication
 The information is easily accessible to all visitors because of the website's straightforward design. Each page is labelled so that the user knows where they are always. Without having to conduct a thorough search, the information is readily available.
 
-### Current User Goals:
+### Current User Goals
 To stay up to date on new meeting days and current readings.
 
-### New User Goals:
+### New User Goals
 - To be able to explore the site easily and comprehend the information offered.
 - For the information to be current and relevant.
 - To be motivated by a distinctive design that piques your interest right away and retains your attention on the site.
@@ -296,7 +296,9 @@ The book descriptions and images are taken from google books:
 
 Logo icon: I made it myself using Procreate to draw the animals and Illustrator to convert it to vector and add the text around it.
 
-### Resources used in the process of the Book Club design and build:
+### Other resources
+
+Resources used in the process of the Book Club design and build:
 - Flexbox: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - Navigation bar toggle: [Responsive Menu With Media Queries](https://youtu.be/xMTs8tAapnQ)
 - Books page overlay information: [Image Overlay Slide](https://www.w3schools.com/howto/howto_css_image_overlay_slide.asp)
