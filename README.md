@@ -96,8 +96,13 @@ The last section has some text to get people to join and an image in the backgro
 
 
 * Contact Page:
+In this page we fins again a picture with text overlay and a quote from Kristin Hannah *"Books + friendship = book club."*. It also uses an eye-catching animation to draw the user's attention to the Book Club.
+
+![Tea, flowers and books](assets/images/contact-hero.png)
+
 The design is minimalistic once more. There is a form for new users to contact Book Club members, as well as some comments and views from current Book Club members.
-Image 
+
+![Reviews and contact form](assets/images/reviews-form.png) 
 
 There is also a thank you page, which appears like this:
 Image 
