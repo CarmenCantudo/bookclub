@@ -102,10 +102,11 @@ In this page we fins again a picture with text overlay and a quote from Kristin 
 
 The design is minimalistic once more. There is a form for new users to contact Book Club members, as well as some comments and views from current Book Club members.
 
-![Reviews and contact form](assets/images/reviews-form.png) 
+![Reviews and contact form](assets/images/reviews-form.png)
 
 There is also a thank you page, which appears like this:
-Image 
+
+![Thank you page, share options and next reading](assets/images/thankyou.png) 
 
 * The Footer:
 - A navigation bar and links to the Book Club's main social media sites are included in the footer area. To make navigating easier for the user, the links will open in a new tab.
