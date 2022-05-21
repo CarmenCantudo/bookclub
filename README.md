@@ -2,9 +2,9 @@
 
 Book Club hopes to help people recover their reading habits, make new friends, and discover books they never thought they would like.
 
-The site will be targeted toward readers that need a way to escape from the routine and are looking to socialise and learn new things.
+The site will target readers who need a way to escape from the routine and are looking to socialise and learn new things.
 
-Book Club will be useful for readers to see what book to read next and when they should be joining the next meeting to discuss about it.
+Book Club will be helpful for readers to see what book to read next and when they should be joining the next meeting to discuss it.
 
 ![Responsive web image](assets/wireframes/amiresponsive.PNG)
 
@@ -41,13 +41,13 @@ The Book Club site is live and can be seen [HERE](https://carmencantudo.github.i
 ### Existing Features
 * Navigation Bar
 
-This is included on all pages and allows users to quickly navigate between the "Home", "Books", "Meetups", and "Contact" sections. It also has the logo in it.
+This section is included on all pages and allows users to quickly navigate between the "Home", "Books", "Meetups", and "Contact" sections. It also has the logo on it.
 
 ![Navigation bar](assets/images/navigation.png)
 
 * Landing page
 
-A picture with text overlay and a brief website description are included on the landing page. This section uses an eye-catching animation to draw the user's attention to the Book Club.
+A picture with text overlay and a brief website description is included on the landing page. This section uses an eye-catching animation to draw the user's attention to the Book Club.
 
 ![Book shelves and lights](assets/images/landing-page-hero.png)
 
@@ -65,11 +65,11 @@ The last section on the Home page is the What we think section, and it contains 
 
 * Books Page:
 
-The first section contains also a picture with text overlay and a quote from Mark Twain *"Good friends, good books, and a sleepy conscience: this is the ideal life."*. This section uses an eye-catching animation to draw the user's attention to the Book Club.
+The first section also contains a picture with text overlay and a quote from Mark Twain *"Good friends, good books, and a sleepy conscience: this is the ideal life."*. This section uses an eye-catching animation to draw the user's attention to the Book Club.
 
 ![Opened book](assets/images/books-hero.png)
 
-Our books sections gives some information and images of the books we have read, the ratings and a list of future readings.
+Our books section gives some information and images of the books we have read, the ratings and a list of future readings.
 
 ![Our books text](assets/images/our-books.png)
 ![Books images from 2022 and 2021](assets/images/books1.png)
@@ -78,15 +78,15 @@ Our books sections gives some information and images of the books we have read, 
 
 * Meetups Page:
 
-There is another picture with text overlay and a quote from Irving Stone *"There are no faster or firmer friendships than those formed between people who love the same books."* in this section that uses an eye-catching animation to draw the user's attention to the Book Club.
+Another picture with text overlay and a quote from Irving Stone *"There are no faster or firmer friendships than those formed between people who love the same books."* can be found in this section that uses an eye-catching animation to draw the user's attention to the Book Club.
 
 ![Coffee, notebook and text: Coffee, books and rain](assets/images/meetups-hero.png)
 
-The next section explains how we connect with each other.
+The following section explains how we connect with each other.
 
-![Whatsapp and videocall text](assets/images/connect.png)
+![Whatsapp and video call text](assets/images/connect.png)
 
-The meetups times sections shows our next meeting sessions, the book we are reading and when we are meeting to discuss it.
+The meetups times section shows our following meeting sessions, the book we are reading and when we are meeting to discuss it.
 
 ![Meeting days and times](assets/images/meetups-times.png)
 
@@ -96,11 +96,11 @@ The last section has some text to get people to join and an image in the backgro
 
 
 * Contact Page:
-In this page we fins again a picture with text overlay and a quote from Kristin Hannah *"Books + friendship = book club."*. It also uses an eye-catching animation to draw the user's attention to the Book Club.
+We find a picture again on this page with text overlay and a quote from Kristin Hannah *"Books + friendship = book club."*. It also uses an eye-catching animation to draw the user's attention to the Book Club.
 
 ![Tea, flowers and books](assets/images/contact-hero.png)
 
-The design is minimalistic once more. There is a form for new users to contact Book Club members, as well as some comments and views from current Book Club members.
+The design is minimalistic once more. There is a form for new users to contact Book Club members and some comments and views from current Book Club members.
 
 ![Reviews and contact form](assets/images/reviews-form.png)
 
@@ -109,7 +109,7 @@ There is also a thank you page, which appears like this:
 ![Thank you page, share options and next reading](assets/images/thankyou.png)
 
 * The Footer:
-- Links to the Book Club's main social media sites are included in the footer area. To make navigating easier for the user, the links will open in a new tab.
+- Links to the Book Club's social media sites are included in the footer area. The links will open in a new tab to make navigating more accessible for the user.
 - The user benefits from the footer since it encourages them to stay connected via social media.
 
 ![Footer social icons](assets/images/footer.png)
@@ -123,7 +123,7 @@ There is also a thank you page, which appears like this:
 To provide information on the Book Club, including its book selection, meeting dates, and how to join.
 
 ### Site Goal:
-To keep our existing book club members up to date on the books we are reading right now and the dates of our next meeting.
+To keep our existing book club members up to date on the books we are reading at the moment and our following meeting dates.
 
 ### Audience:
 Everyone who enjoys reading and wants to recover their reading habits, meet new people, and discover new books.
@@ -135,25 +135,25 @@ The information is easily accessible to all visitors because of the website's st
 To stay up to date on new meeting days and current readings.
 
 ### New User Goals:
-- To be able to easily explore the site and comprehend the information offered.
+- To be able to explore the site easily and comprehend the information offered.
 - For the information to be current and relevant.
 - To be motivated by a distinctive design that piques your interest right away and retains your attention on the site.
 
 
 ## Design
 ### Colour Scheme
-The colour scheme was designed with the goal of providing as much contrast as possible without becoming excessive. The accompanying imagery displayed across the site gives the majority of the colour.
+The colour scheme was designed to provide as much contrast as possible without becoming excessive. The accompanying imagery displayed across the site gives the majority of the colour.
 
 ![Colour palette](assets/images/color-palette.png)
 
 ### Typography
 + Playfair Display: Medium 500 Italic for quotes and regular 400 for titles.
 + Noto Sans: Light 300 for the body.
-+ Special Elite: it mimics a typewriter and it’s used on the navigation menu.
++ Special Elite: it mimics a typewriter and is used on the navigation menu.
 + Amiri: For book descriptions.
 
 ### Imagery
-The site's imagery was gathered from free stock photo websites, and the sources are listed in the Credits section. Each photo provided supports the site's theme and reminds the user that this is a website about books and social meetings.
+The site's images were gathered from free stock photo websites, and the sources are listed in the Credits section. Each photo provided supports the site's theme and reminds the user that this is a website about books and social meetings.
 
 ## Testing
 ### Validator Testing
@@ -171,7 +171,7 @@ The site's imagery was gathered from free stock photo websites, and the sources 
 - CSS
 
 ### Frameworks, Libraries & Programs Used
-- Gitpod: to creat my html files & styling sheet before pushing the project to Github.
+- Gitpod: to create my Html files & styling sheet before pushing the project to Github.
 - GitHub: to store my repository for submission.
 - Balsamiq Wireframes: to make the wireframes for the website.
 Adobe Illustrator and Procreate: to create the logo.
@@ -190,9 +190,9 @@ Adobe Illustrator and Procreate: to create the logo.
 
 ## Credits
 ### Content
-The basic set-up and aesthetic were based on the walk-through project "Love Running." I took the idea for the navigation bar design and the display of social links in the footer section from there.
+The basic setup and aesthetic were based on the walk-through project "Love Running." I took the idea for the navigation bar design, the hero image and the display of social links in the footer section.
 
-The form element's styling in "Love Running" served as a starting point for my form, which helped me recollect all of the elements that needed to be addressed.
+The form element's styling in "Love Running" served as a starting point for my form, which helped me recollect all of the aspects that needed to be addressed.
 
 
 ### Media
