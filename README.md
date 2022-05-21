@@ -11,29 +11,33 @@ Book Club will be helpful for readers to see what book to read next and when the
 The Book Club site is live and can be seen [HERE](https://carmencantudo.github.io/bookclub/)
 
 ## Table of Contents
-+ [Features](#features "Features")
-  + [Existing Features](#existing-features "Existing Features")
-+ [UX](#ux "UX")
-  + [Site Purpose](#site-purpose "Site Purpose")
-  + [Site Goal](#site-goal "Site Goal")
-  + [Audience](#audience "Audience")
-  + [Communication](#communication "Communication")
-  + [Current User Goals](#current-user-goals "Current User Goals")
-  + [New User Goals](#new-user-goals "New User Goals")
-+ [Design](#design "Design")
-  + [Colour Scheme](#colour-scheme "Colour Scheme")
-  + [Typography](#typography "Typography")
-  + [Imagery](#imagery "Imagery")
-+ [Testing](#testing "Testing")
-  + [Validator Testing](#validator-testing "Validator Testing")
-  + [Unfixed Bugs](#unfixed-bugs "Unfixed Bugs")
-+ [Technologies Used](#technologies-used "Technologies Used")
-  + [Main Languages Used](#main-languages-used "Main Languages Used")
-  + [Frameworks, Libraries & Programs Used](#frameworks-libraries-programs-used "Frameworks, Libraries & Programs Used")
-+ [Deployment](#deployment "Deployment")
-+ [Credits](#credits "Credits")
-  + [Content](#content "Content")
-  + [Media](#media "Media")
+- [Book Club](#book-club)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+    - [Existing Features](#existing-features)
+  - [UX](#ux)
+    - [Site Purpose:](#site-purpose)
+    - [Site Goal:](#site-goal)
+    - [Audience:](#audience)
+    - [Communication:](#communication)
+    - [Current User Goals:](#current-user-goals)
+    - [New User Goals:](#new-user-goals)
+  - [Design](#design)
+    - [Colour Scheme](#colour-scheme)
+    - [Typography](#typography)
+    - [Imagery](#imagery)
+  - [Testing](#testing)
+    - [Validator Testing](#validator-testing)
+    - [Unfixed Bugs](#unfixed-bugs)
+  - [Technologies Used](#technologies-used)
+    - [Main Languages Used](#main-languages-used)
+    - [Frameworks, Libraries \& Programs Used](#frameworks-libraries--programs-used)
+  - [Deployment](#deployment)
+    - [Issues encountered](#issues-encountered)
+  - [Credits](#credits)
+    - [Content](#content)
+    - [Media](#media)
+    - [Resources used in the process of the Book Club design and build:](#resources-used-in-the-process-of-the-book-club-design-and-build)
 
 
 
@@ -206,6 +210,8 @@ The following images are from [Pexel](https://www.pexels.com/) and [Burst](https
 
 The book descriptions and images are taken from google books:
 
+<details><summary>List of books</summary>
+
 [The Eight by Katherine Neville](https://books.google.ie/books?id=QBDGCQAAQBAJ&dq=The+Eight+Katherine+Neville)
 
 [Murder on the Orient Express by Agatha Christie](https://books.google.ie/books?id=ps9otgAACAAJ&dq=Murder+on+the+Orient+Express+by+Agatha+Christie&hl=en&sa=X&ved=2ahUKEwia_s6-zd_3AhXURMAKHdXRAnMQ6wF6BAgJEAE)
@@ -260,6 +266,9 @@ The book descriptions and images are taken from google books:
 
 [Good Omens by Neil Gaiman and Terry Pratchett](https://books.google.ie/books?id=B7FL6zzN_FsC&source=gbs_navlinks_s)
 
+</details>
+
+<br>
 
 Logo icon: I made it myself using Procreate to draw the animals and Illustrator to convert it to vector and add the text around it.
 
