@@ -137,7 +137,9 @@ There is also a thank you page, which appears like this:
 <br>
 
 ### Future Features
-???????
+- A page with members photographs.
+- A map with locations where we will meet.
+
 
 <br>
 
@@ -202,7 +204,7 @@ The site's images were gathered from free stock photo websites, and the sources 
 - Gitpod: to create my Html files & styling sheet before pushing the project to Github.
 - GitHub: to store my repository for submission.
 - Balsamiq Wireframes: to make the wireframes for the website.
-Adobe Illustrator and Procreate: to create the logo.
+- Adobe Illustrator and Procreate: to create the logo.
 - Google Fonts: for the font families, Amiri, Noto Sans, Playfair Display, Special Elite.
 - Am I Responsive?: to ensure the project looked good across all devices.
 - Cloudinary: to store, transform, optimize, and deliver the media assets.
