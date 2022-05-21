@@ -17,7 +17,6 @@ The Book Club site is live and can be seen <a href="https://carmencantudo.github
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
     - [Existing Features](#existing-features)
-      - [Navigation Bar](#navigation-bar)
     - [Future Features](#future-features)
   - [UX](#ux)
     - [Site Purpose](#site-purpose)
@@ -42,17 +41,16 @@ The Book Club site is live and can be seen <a href="https://carmencantudo.github
     - [Content](#content)
     - [Media](#media)
     - [Code](#code)
+  - [Acknowledgements](#acknowledgements)
 
 
 
 ## Features
 ### Existing Features
 
-#### Navigation Bar 
+<details><summary> Navigation Bar </summary>
 
 This section is included on all pages and allows users to quickly navigate between the "Home", "Books", "Meetups", and "Contact" sections. It also has the logo on it. For small screens, the navigation bar changes into a collapsed menu.
-
-<details><summary> Images </summary>
 
 ![Navigation bar](assets/images/navigation.png)
 
@@ -139,9 +137,9 @@ There is also a thank you page, which appears like this:
 
 </details>
 
-<br>
 
 ### Future Features
+
 - A page with members photographs.
 - A map with locations where we will meet.
 
@@ -213,6 +211,7 @@ The site's images were gathered from free stock photo websites, and the sources 
 - Google Fonts: for the font families, Amiri, Noto Sans, Playfair Display, Special Elite.
 - Am I Responsive?: to ensure the project looked good across all devices.
 - Cloudinary: to store, transform, optimize, and deliver the media assets.
+- Markdown cheat sheet: for Readme.
 
 <br>
 
@@ -314,3 +313,8 @@ Resources used in the process of the Book Club design and build:
 - Books page overlay information: [Image Overlay Slide](https://www.w3schools.com/howto/howto_css_image_overlay_slide.asp)
 - Share to Social Media: [Share Link Generator](http://www.sharelinkgenerator.com/)
 
+<br>
+
+## Acknowledgements
+
+- My mentor, Martina Terlevic, for the helpful feedback and support.
