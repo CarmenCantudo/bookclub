@@ -15,6 +15,7 @@ The Book Club site is live and can be seen [HERE](https://carmencantudo.github.i
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
     - [Existing Features](#existing-features)
+    - [Future Features:](#future-features)
   - [UX](#ux)
     - [Site Purpose:](#site-purpose)
     - [Site Goal:](#site-goal)
@@ -43,7 +44,8 @@ The Book Club site is live and can be seen [HERE](https://carmencantudo.github.i
 
 ## Features
 ### Existing Features
-* Navigation Bar
+
+<details><summary> Navigation Bar </summary>
 
 This section is included on all pages and allows users to quickly navigate between the "Home", "Books", "Meetups", and "Contact" sections. It also has the logo on it. For small screens, the navigation bar changes into a collapsed menu.
 
@@ -51,7 +53,9 @@ This section is included on all pages and allows users to quickly navigate betwe
 
 ![Toggle menu](assets/images/nav-toggle.png)
 
-* Landing page
+</details>
+
+<details><summary> Landing page </summary>
 
 A picture with text overlay and a brief website description is included on the landing page. This section uses an eye-catching animation to draw the user's attention to the Book Club.
 
@@ -69,7 +73,9 @@ The last section on the Home page is the What we think section, and it contains 
 
 ![What we think section image](assets/images/what-we-think.png)
 
-* Books Page:
+</details>
+
+<details><summary> Books Page </summary>
 
 The first section also contains a picture with text overlay and a quote from Mark Twain *"Good friends, good books, and a sleepy conscience: this is the ideal life."*. This section uses an eye-catching animation to draw the user's attention to the Book Club.
 
@@ -81,8 +87,9 @@ Our books section gives some information and images of the books we have read, t
 ![Books images from 2022 and 2021](assets/images/books1.png)
 ![Books images from 2020](assets/images/books2.png)
 
+</details>
 
-* Meetups Page:
+<details><summary> Meetups Page </summary>
 
 Another picture with text overlay and a quote from Irving Stone *"There are no faster or firmer friendships than those formed between people who love the same books."* can be found in this section that uses an eye-catching animation to draw the user's attention to the Book Club.
 
@@ -100,8 +107,10 @@ The last section has some text to get people to join and an image in the backgro
 
 ![Text](assets/images/meetups-books.png)
 
+</details>
 
-* Contact Page:
+<details><summary> Contact Page </summary>
+
 We find a picture again on this page with text overlay and a quote from Kristin Hannah *"Books + friendship = book club."*. It also uses an eye-catching animation to draw the user's attention to the Book Club.
 
 ![Tea, flowers and books](assets/images/contact-hero.png)
@@ -114,15 +123,23 @@ There is also a thank you page, which appears like this:
 
 ![Thank you page, share options and next reading](assets/images/thankyou.png)
 
-* The Footer:
+</details>
+
+<details><summary> The Footer </summary>
+
 - Links to the Book Club's social media sites are included in the footer area. The links will open in a new tab to make navigating more accessible for the user.
 - The user benefits from the footer since it encourages them to stay connected via social media.
 
 ![Footer social icons](assets/images/footer.png)
 
-* Future Features:
+</details>
+
+<br>
+
+### Future Features:
 ???????
 
+<br>
 
 ## UX
 ### Site Purpose:
@@ -145,6 +162,7 @@ To stay up to date on new meeting days and current readings.
 - For the information to be current and relevant.
 - To be motivated by a distinctive design that piques your interest right away and retains your attention on the site.
 
+<br>
 
 ## Design
 ### Colour Scheme
@@ -161,6 +179,8 @@ The colour scheme was designed to provide as much contrast as possible without b
 ### Imagery
 The site's images were gathered from free stock photo websites, and the sources are listed in the Credits section. Each photo provided supports the site's theme and reminds the user that this is a website about books and social meetings.
 
+<br>
+
 ## Testing
 ### Validator Testing
 - HTML
@@ -169,6 +189,8 @@ The site's images were gathered from free stock photo websites, and the sources 
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcarmencantudo.github.io%2Fbookclub%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ### Unfixed Bugs
+
+<br>
 
 ## Technologies Used
 
@@ -184,6 +206,7 @@ Adobe Illustrator and Procreate: to create the logo.
 - Google Fonts: for the font families, Amiri, Noto Sans, Playfair Display, Special Elite.
 - Am I Responsive?: to ensure the project looked good across all devices.
 
+<br>
 
 ## Deployment
 - 
@@ -193,6 +216,7 @@ Adobe Illustrator and Procreate: to create the logo.
 ### Issues encountered
 - 
 
+<br>
 
 ## Credits
 ### Content
