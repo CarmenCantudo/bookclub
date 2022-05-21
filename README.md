@@ -203,6 +203,7 @@ The site's images were gathered from free stock photo websites, and the sources 
 Adobe Illustrator and Procreate: to create the logo.
 - Google Fonts: for the font families, Amiri, Noto Sans, Playfair Display, Special Elite.
 - Am I Responsive?: to ensure the project looked good across all devices.
+- Cloudinary: to store, transform, optimize, and deliver the media assets.
 
 <br>
 
