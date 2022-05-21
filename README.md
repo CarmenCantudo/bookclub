@@ -18,7 +18,6 @@ The Book Club site is live and can be seen <a href="https://carmencantudo.github
   - [Features](#features)
     - [Existing Features](#existing-features)
       - [Navigation Bar](#navigation-bar)
-      - [Landing page](#landing-page)
     - [Future Features](#future-features)
   - [UX](#ux)
     - [Site Purpose](#site-purpose)
@@ -42,7 +41,7 @@ The Book Club site is live and can be seen <a href="https://carmencantudo.github
   - [Credits](#credits)
     - [Content](#content)
     - [Media](#media)
-    - [Other resources](#other-resources)
+    - [Code](#code)
 
 
 
@@ -61,13 +60,9 @@ This section is included on all pages and allows users to quickly navigate betwe
 
 </details>
 
-<br>
-
-#### Landing page
+<details><summary> Landing page </summary>
 
 A picture with text overlay and a brief website description is included on the landing page. This section uses an eye-catching animation to draw the user's attention to the Book Club.
-
-<details><summary> Images </summary>
 
 ![Book shelves and lights](assets/images/landing-page-hero.png)
 
@@ -311,7 +306,7 @@ The book descriptions and images are taken from google books:
 
 Logo icon: I made it myself using Procreate to draw the animals and Illustrator to convert it to vector and add the text around it.
 
-### Other resources
+### Code
 
 Resources used in the process of the Book Club design and build:
 - Flexbox: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
