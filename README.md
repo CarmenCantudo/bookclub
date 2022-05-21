@@ -31,11 +31,14 @@ The Book Club site is live and can be seen <a href="https://carmencantudo.github
     - [Imagery](#imagery)
   - [Testing](#testing)
     - [Validator Testing](#validator-testing)
-    - [Unfixed Bugs](#unfixed-bugs)
   - [Technologies Used](#technologies-used)
     - [Main Languages Used](#main-languages-used)
     - [Frameworks, Libraries \& Programs Used](#frameworks-libraries--programs-used)
   - [Deployment](#deployment)
+    - [Using Github Pages](#using-github-pages)
+    - [How to Fork it](#how-to-fork-it)
+    - [How to Clone it](#how-to-clone-it)
+    - [Making a Local Clone](#making-a-local-clone)
     - [Issues encountered](#issues-encountered)
   - [Credits](#credits)
     - [Content](#content)
@@ -200,8 +203,6 @@ The site's images were gathered from free stock photo websites, and the sources 
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcarmencantudo.github.io%2Fbookclub%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-### Unfixed Bugs
-
 <br>
 
 ## Technologies Used
@@ -223,9 +224,41 @@ The site's images were gathered from free stock photo websites, and the sources 
 <br>
 
 ## Deployment
-- 
-- 
-- 
+
+### Using Github Pages
+In the GitHub Repository from the project https://github.com/ carmencantudo/bookclub/
+
+1. Click the 'Settings' Tab.
+2. Scroll Down to the Git Hub Pages Heading.
+3. Select 'Master Branch' as the source.
+4. The Page will reload 'Settings' again.
+5. Scroll to GitHub pages heading and there will now be a clickable link https://carmencantudo.github.io/bookclub/
+6. Click this link for the live deployed page
+
+### How to Fork it
+1. On GitHub, go to [CarmenCantudo/bookclub](https://github.com/ carmencantudo/bookclub).
+2. In the top right, click "Fork".
+
+### How to Clone it
+1. Go to the main page of the repository.
+3. Above the file list, click "Code".
+4. Select HTTPS, SSH, or GitHub CLI and then click copy to clone it.
+5. Open Git Bash.
+6. Change the location of your cloned repository.
+7. Type `git clone` and then paste the URL you copied.
+8. Press “Enter” to create your clone.
+
+### Making a Local Clone
+1. Locate the [Repository](https://github.com/CarmenCantudo/bookclub) for this quiz.
+2. Click "Code".
+3. Click Clone or Download.
+4. Copy Git URL from the dialogue box.
+5. Open a terminal window in a directory of your choosing using your preferred development editor.
+6. Change the location to where you want the cloned directory to be.
+6. Type `git clone`, and then paste the URL you copied.
+7. Press Enter, and your local clone will be created.
+
+
 
 ### Issues encountered
 - 
