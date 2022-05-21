@@ -74,7 +74,7 @@ nav {
     border-bottom: 1px solid;
 }
 
-label {
+.navlabel {
   margin-right: 40px;
   font-size: 26px;
   display: none;
@@ -659,7 +659,7 @@ footer {
 
 @media screen and (max-width: 550px) {
     /* Navigation */
-    label {
+    .navlabel {
         display: block;
         cursor: pointer;
         width: 26px;
