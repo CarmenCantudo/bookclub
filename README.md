@@ -187,6 +187,13 @@ The site's images were gathered from free stock photo websites, and the sources 
 <br>
 
 ## Testing
+
+- The website was constantly tested during development using Chrome dev tools.
+- Tested sign up and contact form with and without inputs in all fields.
+- Tested all links on all pages.
+- To improve web performance, the images format was change to WebP that provides better compression, which means faster downloads and less data consumption.
+
+
 ### Validator Testing
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcarmencantudo.github.io%2Fbookclub%2Findex.html)
