@@ -8,13 +8,17 @@ Book Club will be helpful for readers to see what book to read next and when the
 
 ![Responsive web image](assets/wireframes/amiresponsive.PNG)
 
-<a href="https://carmencantudo.github.io/bookclub/" target="_blank">HERE!</a>
+The Book Club site is live and can be seen <a href="https://carmencantudo.github.io/bookclub/" target="_blank">HERE!</a>
+
+<br>
 
 ## Table of Contents
 - [Book Club](#book-club)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
     - [Existing Features](#existing-features)
+      - [Navigation Bar](#navigation-bar)
+      - [Landing page](#landing-page)
     - [Future Features](#future-features)
   - [UX](#ux)
     - [Site Purpose](#site-purpose)
@@ -45,9 +49,11 @@ Book Club will be helpful for readers to see what book to read next and when the
 ## Features
 ### Existing Features
 
-<details><summary> Navigation Bar </summary>
+#### Navigation Bar 
 
 This section is included on all pages and allows users to quickly navigate between the "Home", "Books", "Meetups", and "Contact" sections. It also has the logo on it. For small screens, the navigation bar changes into a collapsed menu.
+
+<details><summary> Images </summary>
 
 ![Navigation bar](assets/images/navigation.png)
 
@@ -55,9 +61,13 @@ This section is included on all pages and allows users to quickly navigate betwe
 
 </details>
 
-<details><summary> Landing page </summary>
+<br>
+
+#### Landing page
 
 A picture with text overlay and a brief website description is included on the landing page. This section uses an eye-catching animation to draw the user's attention to the Book Club.
+
+<details><summary> Images </summary>
 
 ![Book shelves and lights](assets/images/landing-page-hero.png)
 
