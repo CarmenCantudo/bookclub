@@ -106,12 +106,14 @@ The design is minimalistic once more. There is a form for new users to contact B
 
 There is also a thank you page, which appears like this:
 
-![Thank you page, share options and next reading](assets/images/thankyou.png) 
+![Thank you page, share options and next reading](assets/images/thankyou.png)
 
 * The Footer:
-- A navigation bar and links to the Book Club's main social media sites are included in the footer area. To make navigating easier for the user, the links will open in a new tab.
+- Links to the Book Club's main social media sites are included in the footer area. To make navigating easier for the user, the links will open in a new tab.
 - The user benefits from the footer since it encourages them to stay connected via social media.
-Image 
+
+![Footer social icons](assets/images/footer.png)
+
 * Future Features:
 ???????
 
