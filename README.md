@@ -244,10 +244,13 @@ Thank you page
 - The website was constantly tested during development using Chrome dev tools.
 - Tested sign up and contact form with and without inputs in all fields.
 - Tested all links on all pages.
-- To improve web performance, the images format was change to WebP that provides better compression, which means faster downloads and less data consumption.
+- Verified that contact form cannot be submitted without the required information (First Name, Last Name, Email and Message) and once the information is submitted the Thank you page will be displayed.
 - Website tested in Chrome, Firefox, Microsoft Edge and Brave.
 - Lighthouse used to test webpage for Performance, Accessibility, Best Practices and SEO:
-![Lighthouse Performance](assets/images/lighthouse.png)
+Desktop: ![Lighthouse Performance](assets/images/lighthouse.png)
+Mobile: 
+- To improve web performance, the images format was change to WebP that provides better compression, which means faster downloads and less data consumption.
+
 
 
 ### Validator Testing
