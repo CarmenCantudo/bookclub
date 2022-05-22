@@ -29,6 +29,7 @@ The Book Club site is live and can be seen <a href="https://carmencantudo.github
     - [Colour Scheme](#colour-scheme)
     - [Typography](#typography)
     - [Imagery](#imagery)
+    - [Wireframes](#wireframes)
   - [Testing](#testing)
     - [Validator Testing](#validator-testing)
   - [Technologies Used](#technologies-used)
@@ -187,6 +188,38 @@ The colour scheme was designed to provide as much contrast as possible without b
 
 ### Imagery
 The site's images were gathered from free stock photo websites, and the sources are listed in the Credits section. Each photo provided supports the site's theme and reminds the user that this is a website about books and social meetings.
+
+### Wireframes
+
+<details><summary> Laptop </summary>
+
+![Home page](assets/wireframes/Home.png)
+![Books page](assets/wireframes/Books.png)
+![Meetups page](assets/wireframes/Meetings.png)
+![Contact page](assets/wireframes/Contact.png)
+![Thank you page](assets/wireframes/Thank-you.png)
+
+</details>
+
+<details><summary> IPad </summary>
+
+![Home page](assets/wireframes/Home-tablet.png)
+![Books page](assets/wireframes/Books-tablet.png)
+![Meetups page](assets/wireframes/Meetings-tablet.png)
+![Contact page](assets/wireframes/Contact-tablet.png)
+![Thank you page](assets/wireframes/Thank-you-tablet.png)
+
+</details>
+
+<details><summary> Mobile </summary>
+
+![Home page](assets/wireframes/Home-mobile.png)
+![Books page](assets/wireframes/Books-mobile.png)
+![Meetups page](assets/wireframes/Meetings-mobile.png)
+![Contact page](assets/wireframes/Contact-mobile.png)
+![Thank you page](assets/wireframes/Thank-you-mobile.png)
+
+</details>
 
 <br>
 
