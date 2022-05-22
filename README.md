@@ -191,7 +191,7 @@ The site's images were gathered from free stock photo websites, and the sources 
 
 ### Wireframes
 
-<details><summary> Laptop </summary>
+<details><summary> Desktop </summary>
 
 Home page
 ![Home page](assets/wireframes/Home.png)
@@ -244,6 +244,8 @@ Thank you page
 - Tested sign up and contact form with and without inputs in all fields.
 - Tested all links on all pages.
 - To improve web performance, the images format was change to WebP that provides better compression, which means faster downloads and less data consumption.
+- Lighthouse used to test webpage for Performance, Accessibility, Best Practices and SEO:
+  ![Lighthouse Performance]()
 
 
 ### Validator Testing
