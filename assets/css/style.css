@@ -660,6 +660,11 @@ footer {
     }
 
     /* Home */
+    #hero-image {
+        background: url('https://res.cloudinary.com/djwxldbab/image/upload/v1653236696/bookclub/book-shelf-lights-sm_cqu2nc.webp') no-repeat center center;
+        background-size: cover;
+    }
+    
     #cover-text {
         height: auto;
     }
@@ -669,6 +674,11 @@ footer {
     }
 
     /* Books */
+    #hero-image-books {
+        background: url('https://res.cloudinary.com/djwxldbab/image/upload/v1653236999/bookclub/open-book-sm_t3j5x7.webp') no-repeat center center;
+        background-size: cover;
+    }
+    
     .text-over-img {
         font-size: 2.8vw;
         line-height: 24px;
@@ -679,6 +689,11 @@ footer {
     }
 
     /* Meetups */
+    #hero-image-meetups {
+        background: url('https://res.cloudinary.com/djwxldbab/image/upload/v1653237339/bookclub/notebook-coffee-books-sm_nsw2sa.webp') no-repeat center center;
+        background-size: cover;
+    }
+    
     .lifeofpi, .goodomens {
         width: 50%;
     }
@@ -690,9 +705,19 @@ footer {
     .meetups h3 {
         font-size: 2.5vw;
     }
+    
+    #after-meeting {
+        background-image: url('https://res.cloudinary.com/djwxldbab/image/upload/v1653237656/bookclub/books-meetup-background_porlqy.webp');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center;
+    }
 
     /* Contact */
     #hero-image-contact {
+        background: url('https://res.cloudinary.com/djwxldbab/image/upload/v1653237478/bookclub/tea-books-hero-sm_fwclrk.webp') no-repeat center center;
+        background-size: cover;
         background-position: right;
     }
 }
