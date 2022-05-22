@@ -32,6 +32,7 @@ The Book Club site is live and can be seen <a href="https://carmencantudo.github
     - [Wireframes](#wireframes)
   - [Testing](#testing)
     - [Validator Testing](#validator-testing)
+    - [Bugs](#bugs)
   - [Technologies Used](#technologies-used)
     - [Main Languages Used](#main-languages-used)
     - [Frameworks, Libraries \& Programs Used](#frameworks-libraries--programs-used)
@@ -244,6 +245,7 @@ Thank you page
 - Tested sign up and contact form with and without inputs in all fields.
 - Tested all links on all pages.
 - To improve web performance, the images format was change to WebP that provides better compression, which means faster downloads and less data consumption.
+- Website tested in Chrome, Firefox, Microsoft Edge and Brave.
 - Lighthouse used to test webpage for Performance, Accessibility, Best Practices and SEO:
 ![Lighthouse Performance](assets/images/lighthouse.png)
 
@@ -253,6 +255,10 @@ Thank you page
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcarmencantudo.github.io%2Fbookclub%2Findex.html)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcarmencantudo.github.io%2Fbookclub%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+
+### Bugs
+Debugging took place during the development and testing phases of the website's development. Testing was done on a regular basis. When issues were discovered, I used dev tools to see and test what would fix the problem.
 
 <br>
 
