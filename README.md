@@ -195,7 +195,7 @@ The site's images were gathered from free stock photo websites, and the sources 
 
 ![Home page](assets/wireframes/Home.png)
 ![Books page](assets/wireframes/Books.png)
-![Meetups page](assets/wireframes/Meetings.png)
+![Meetups page](assets/wireframes/Meetups.png)
 ![Contact page](assets/wireframes/Contact.png)
 ![Thank you page](assets/wireframes/Thank-you.png)
 
@@ -205,7 +205,7 @@ The site's images were gathered from free stock photo websites, and the sources 
 
 ![Home page](assets/wireframes/Home-tablet.png)
 ![Books page](assets/wireframes/Books-tablet.png)
-![Meetups page](assets/wireframes/Meetings-tablet.png)
+![Meetups page](assets/wireframes/Meetups-tablet.png)
 ![Contact page](assets/wireframes/Contact-tablet.png)
 ![Thank you page](assets/wireframes/Thank-you-tablet.png)
 
@@ -215,7 +215,7 @@ The site's images were gathered from free stock photo websites, and the sources 
 
 ![Home page](assets/wireframes/Home-mobile.png)
 ![Books page](assets/wireframes/Books-mobile.png)
-![Meetups page](assets/wireframes/Meetings-mobile.png)
+![Meetups page](assets/wireframes/Meetups-mobile.png)
 ![Contact page](assets/wireframes/Contact-mobile.png)
 ![Thank you page](assets/wireframes/Thank-you-mobile.png)
 
