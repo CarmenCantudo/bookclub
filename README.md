@@ -245,7 +245,7 @@ Thank you page
 - Tested all links on all pages.
 - To improve web performance, the images format was change to WebP that provides better compression, which means faster downloads and less data consumption.
 - Lighthouse used to test webpage for Performance, Accessibility, Best Practices and SEO:
-  ![Lighthouse Performance]()
+![Lighthouse Performance](assets/images/lighthouse.png)
 
 
 ### Validator Testing
