@@ -193,30 +193,45 @@ The site's images were gathered from free stock photo websites, and the sources 
 
 <details><summary> Laptop </summary>
 
+Home page
 ![Home page](assets/wireframes/Home.png)
+Books page
 ![Books page](assets/wireframes/Books.png)
+Meetups page
 ![Meetups page](assets/wireframes/Meetups.png)
+Contact page
 ![Contact page](assets/wireframes/Contact.png)
+Thank you page
 ![Thank you page](assets/wireframes/Thank-you.png)
 
 </details>
 
 <details><summary> IPad </summary>
 
+Home page
 ![Home page](assets/wireframes/Home-tablet.png)
+Books page
 ![Books page](assets/wireframes/Books-tablet.png)
+Meetups page
 ![Meetups page](assets/wireframes/Meetups-tablet.png)
+Contact page
 ![Contact page](assets/wireframes/Contact-tablet.png)
+Thank you page
 ![Thank you page](assets/wireframes/Thank-you-tablet.png)
 
 </details>
 
 <details><summary> Mobile </summary>
 
+Home page
 ![Home page](assets/wireframes/Home-mobile.png)
+Books page
 ![Books page](assets/wireframes/Books-mobile.png)
+Meetups page
 ![Meetups page](assets/wireframes/Meetups-mobile.png)
+Contact page
 ![Contact page](assets/wireframes/Contact-mobile.png)
+Thank you page
 ![Thank you page](assets/wireframes/Thank-you-mobile.png)
 
 </details>
