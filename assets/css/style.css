@@ -169,6 +169,10 @@ nav {
     padding-left: 20px;
 }
 
+.obj-list {
+    font-size: 1.1em;
+}
+
 /* next reading */
 
 #intro-book{
