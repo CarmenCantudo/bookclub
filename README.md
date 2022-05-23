@@ -148,6 +148,7 @@ There is also a thank you page, which appears like this:
 - A page with members photographs.
 - A map with locations where we will meet.
 - Future events.
+- A carousel with the books photos in the books page.
 
 
 <br>
