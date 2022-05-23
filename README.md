@@ -268,12 +268,8 @@ Thank you page
 - Tested all links on all pages.
 - Verified that contact form cannot be submitted without the required information (First Name, Last Name, Email and Message) and once the information is submitted the Thank you page will be displayed.
 - Website tested in Chrome, Firefox, Microsoft Edge and Brave.
-- Lighthouse used to test webpage for Performance, Accessibility, Best Practices and SEO:
-  - Desktop:
-  <br>
+- Lighthouse used to test webpage for Performance, Accessibility, Best Practices and SEO for desktop and mobile:
   ![Lighthouse Desktop Performance](assets/images/lighthouse.png)
-  - Mobile:
-  <br>
   ![Lighthouse Mobile Performance](assets/images/lighthouse-mobile.png)
 - To improve web performance, the images format was change to WebP that provides better compression, which means faster downloads and less data consumption.
 
