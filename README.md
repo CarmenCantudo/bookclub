@@ -270,9 +270,11 @@ Thank you page
 - Website tested in Chrome, Firefox, Microsoft Edge and Brave.
 - Lighthouse used to test webpage for Performance, Accessibility, Best Practices and SEO:
   - Desktop:
+  <br>
   ![Lighthouse Desktop Performance](assets/images/lighthouse.png)
   - Mobile:
-- ![Lighthouse Mobile Performance](assets/images/lighthouse-mobile.png)
+  <br>
+  ![Lighthouse Mobile Performance](assets/images/lighthouse-mobile.png)
 - To improve web performance, the images format was change to WebP that provides better compression, which means faster downloads and less data consumption.
 
 ### Manual Testing
