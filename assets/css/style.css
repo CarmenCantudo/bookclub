@@ -523,6 +523,73 @@ footer {
     color: #825E6E;
 }
 
+/* 404 error page */
+
+#error404 {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;    
+    align-content: center;
+    height: 100vh;
+    text-align: center;
+    background-color: #FEEEDF;
+}
+
+#error404 h1 {
+    font-size: 140px;
+    color: #825E6E;
+}
+
+#error404 h2 {
+    font-size: 60px;
+}
+
+#error404 p {
+    margin-top: 10px;
+    font-size: 20px;
+}
+    /* Code from w3schools */
+#error404 button {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #DDD0D6;
+    transition: all 0.5s;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+#error404 button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+#error404 button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+
+#error404 button:hover span {
+    padding-right: 25px;
+  }
+
+#error404 button:hover  span:after {
+    opacity: 1;
+    right: 0;
+}
+
+#error404 a {
+    font-size: 20px;
+    text-decoration: none;
+    color: #3a3a3a;
+}
+
+
 /* Media queries */
 
 @media screen and (max-width: 1250px) {
