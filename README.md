@@ -142,6 +142,14 @@ There is also a thank you page, which appears like this:
 
 </details>
 
+<details><summary> 404 error </summary>
+
+If a 404 "page not found" error occurs, the user will be led to a personalized error page that matches the site's aesthetic and includes a supportive message and a link to go Home.
+
+![404 error page](assets/images/404-error.png)
+
+</details>
+
 
 ### Future Features
 
@@ -282,7 +290,7 @@ Debugging took place during the development and testing phases of the website's 
 - Google Fonts: for the font families, Amiri, Noto Sans, Playfair Display, Special Elite.
 - Am I Responsive?: to ensure the project looked good across all devices.
 - Cloudinary: to store, transform, optimize, and deliver the media assets.
-- Markdown cheat sheet: for Readme.
+- Markdown cheat sheet: to complete the Readme.
 
 <br>
 
