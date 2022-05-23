@@ -415,6 +415,7 @@ Resources used in the process of the Book Club design and build:
 - Navigation bar toggle: [Responsive Menu With Media Queries](https://youtu.be/xMTs8tAapnQ)
 - Books page overlay information: [Image Overlay Slide](https://www.w3schools.com/howto/howto_css_image_overlay_slide.asp)
 - Share to Social Media: [Share Link Generator](http://www.sharelinkgenerator.com/)
+- Animated Button for 404 page: [Animated Buttons](https://www.w3schools.com/howto/howto_css_animate_buttons.asp)
 
 <br>
 
