@@ -25,6 +25,7 @@ The Book Club site is live and can be seen <a href="https://carmencantudo.github
     - [Communication](#communication)
     - [Current User Goals](#current-user-goals)
     - [New User Goals](#new-user-goals)
+    - [Site administrator Goals](#site-administrator-goals)
   - [Design](#design)
     - [Colour Scheme](#colour-scheme)
     - [Typography](#typography)
@@ -175,12 +176,23 @@ Everyone who enjoys reading and wants to recover their reading habits, meet new 
 The information is easily accessible to all visitors because of the website's straightforward design. Each page is labelled so that the user knows where they are always. Without having to conduct a thorough search, the information is readily available.
 
 ### Current User Goals
-To stay up to date on new meeting days and current readings.
+- To stay up to date on new meeting days and current readings.
+- A site that is easy to use so that you can simply verify the information I've already viewed.
+- To be able to contact the club and make inquiries.
+- To be able to navigate between pages on all devices easily.
 
 ### New User Goals
 - To be able to explore the site easily and comprehend the information offered.
 - For the information to be current and relevant.
 - To be motivated by a distinctive design that piques your interest right away and retains your attention on the site.
+- To be able to view a responsive design and a mobile-friendly layout.
+
+### Site administrator Goals
+- To provide clear and accurate information.
+- To be able to make changes to the meeting dates.
+- To keep the book list up to date and add new titles.
+- To expand the catalogue and add more relevant photographs to the site.
+- To obtain user feedback using a contact form.
 
 <br>
 
