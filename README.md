@@ -25,13 +25,14 @@ The Book Club site is live and can be seen <a href="https://carmencantudo.github
     - [Communication](#communication)
     - [Current User Goals](#current-user-goals)
     - [New User Goals](#new-user-goals)
-    - [Site administrator Goals](#site-administrator-goals)
+    - [Site Administrator Goals](#site-administrator-goals)
   - [Design](#design)
     - [Colour Scheme](#colour-scheme)
     - [Typography](#typography)
     - [Imagery](#imagery)
     - [Wireframes](#wireframes)
   - [Testing](#testing)
+    - [Manual Testing](#manual-testing)
     - [Validator Testing](#validator-testing)
     - [Bugs](#bugs)
   - [Technologies Used](#technologies-used)
@@ -187,7 +188,7 @@ The information is easily accessible to all visitors because of the website's st
 - To be motivated by a distinctive design that piques your interest right away and retains your attention on the site.
 - To be able to view a responsive design and a mobile-friendly layout.
 
-### Site administrator Goals
+### Site Administrator Goals
 - To provide clear and accurate information.
 - To be able to make changes to the meeting dates.
 - To keep the book list up to date and add new titles.
@@ -274,6 +275,7 @@ Thank you page
 - ![Lighthouse Mobile Performance](assets/images/lighthouse-mobile.png)
 - To improve web performance, the images format was change to WebP that provides better compression, which means faster downloads and less data consumption.
 
+### Manual Testing
 
 
 ### Validator Testing
