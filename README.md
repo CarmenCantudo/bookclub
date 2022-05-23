@@ -43,12 +43,10 @@ The Book Club site is live and can be seen <a href="https://carmencantudo.github
     - [How to Fork it](#how-to-fork-it)
     - [How to Clone it](#how-to-clone-it)
     - [Making a Local Clone](#making-a-local-clone)
-    - [Issues encountered](#issues-encountered)
   - [Credits](#credits)
     - [Content](#content)
     - [Media](#media)
     - [Code](#code)
-  - [Acknowledgements](#acknowledgements)
 
 
 
@@ -160,8 +158,7 @@ If a 404 "page not found" error occurs, the user will be led to a personalized e
 - Future events.
 - A carousel with the books photos in the books page.
 
-
-<br>
+[Back to top](#book-club)
 
 ## UX
 ### Site Purpose
@@ -195,7 +192,7 @@ The information is easily accessible to all visitors because of the website's st
 - To expand the catalogue and add more relevant photographs to the site.
 - To obtain user feedback using a contact form.
 
-<br>
+[Back to top](#book-club)
 
 ## Design
 ### Colour Scheme
@@ -259,7 +256,7 @@ Thank you page
 
 </details>
 
-<br>
+[Back to top](#book-club)
 
 ## Testing
 
@@ -293,7 +290,7 @@ Thank you page
 ### Bugs
 Debugging took place during the development and testing phases of the website's development. Testing was done on a regular basis. When issues were discovered, I used dev tools to see and test what would fix the problem.
 
-<br>
+[Back to top](#book-club)
 
 ## Technologies Used
 
@@ -311,7 +308,7 @@ Debugging took place during the development and testing phases of the website's 
 - Cloudinary: to store, transform, optimize, and deliver the media assets.
 - Markdown cheat sheet: to complete the Readme.
 
-<br>
+[Back to top](#book-club)
 
 ## Deployment
 
@@ -348,12 +345,7 @@ In the GitHub Repository from the project https://github.com/ carmencantudo/book
 6. Type `git clone`, and then paste the URL you copied.
 7. Press Enter, and your local clone will be created.
 
-
-
-### Issues encountered
-- 
-
-<br>
+[Back to top](#book-club)
 
 ## Credits
 ### Content
@@ -444,8 +436,4 @@ Resources used in the process of the Book Club design and build:
 - Share to Social Media: [Share Link Generator](http://www.sharelinkgenerator.com/)
 - Animated Button for 404 page: [Animated Buttons](https://www.w3schools.com/howto/howto_css_animate_buttons.asp)
 
-<br>
-
-## Acknowledgements
-
-- My mentor, Martina Terlevic, for the helpful feedback and support.
+[Back to top](#book-club)
