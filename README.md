@@ -276,7 +276,14 @@ Thank you page
 - To improve web performance, the images format was change to WebP that provides better compression, which means faster downloads and less data consumption.
 
 ### Manual Testing
-
+|  Feature                      | Expect                                                                                                     | Action                                | Result                                                           |
+|-------------------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------|------------------------------------------------------------------|
+| **Logo Icon**                 | Home page will open when clicked                                                                           | Click Logo Icon                       | Home page opened when clicked                                    |
+| **Navigation Menu**           | The relevant page will open when clicked                                                                   | Click each menu links                 | Taken to selected page                                           |
+| **Social link icons**         | To go to external link                                                                                     | Click on icon                         | Taken to social page in new tab                                  |
+| **Book images in Books page** | Overlay slide opens when hover or click on the image                                                       | Hover/Click on image                  | The overlay slide shows the books information                    |
+| **Required form fields**      | If required fields are left blank, the form will not submit, and the fields will be highlighted and marked | Incomplete form                       | Form does not submit and highlights fields incorrectly filled in |
+| **Form submit button**        | When the submit button is pressed, the form submits                                                        | Complete form and click submit button | Thank you page opens                                             |
 
 ### Validator Testing
 - HTML
