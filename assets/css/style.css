@@ -239,7 +239,6 @@ footer {
 }
 
 .footer-container a:hover {
-    font-size: 32px;
     text-shadow: 2px 2px 2px rgb(130, 94, 110);
 }
 
@@ -520,7 +519,7 @@ footer {
 }
 
 #share-social a:hover {
-    color: #825E6E;
+    text-shadow: 2px 2px 2px rgb(130, 94, 110);
 }
 
 /* 404 error page */
