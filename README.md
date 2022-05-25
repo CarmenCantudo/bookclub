@@ -268,7 +268,7 @@ Thank you page
 - Lighthouse used to test webpage for Performance, Accessibility, Best Practices and SEO for desktop and mobile:
   ![Lighthouse Desktop Performance](assets/images/lighthouse.png)
   ![Lighthouse Mobile Performance](assets/images/lighthouse-mobile.png)
-- To improve web performance, the images format was change to WebP that provides better compression, which means faster downloads and less data consumption.
+- To improve web performance, all the images format was changed to WebP, which provides better compression, which means faster downloads and less data consumption.
 
 ### Manual Testing
 |  Feature                      | Expect                                                                                                     | Action                                | Result                                                           |
@@ -289,6 +289,9 @@ Thank you page
 
 ### Bugs
 Debugging took place during the development and testing phases of the website's development. Testing was done on a regular basis. When issues were discovered, I used dev tools to see and test what would fix the problem.
+- The hero images weren’t’ showing correctly, they were too big, so I had to use the background cover property to fix it and make them be the same size as the screen.
+- When creating the book gallery on the books page, some of the books weren’t aligning correctly following the flexbox properties row wrap. I discovered the solution was that I needed to add another div to contain the images. Then all the book images are displayed perfectly.
+- When testing the website using an iPad, I discovered that the footer social links disappeared when trying to click on them. The problem was the gap space between them, so I deleted it and added some padding, and it’s working now.
 
 [Back to top](#book-club)
 
@@ -317,7 +320,7 @@ In the GitHub Repository from the project https://github.com/ carmencantudo/book
 
 1. Click the 'Settings' Tab.
 2. Scroll Down to the Git Hub Pages Heading.
-3. Select 'Master Branch' as the source.
+3. Select 'Main Branch' as the source.
 4. The Page will reload 'Settings' again.
 5. Scroll to GitHub pages heading and there will now be a clickable link https://carmencantudo.github.io/bookclub/
 6. Click this link for the live deployed page
