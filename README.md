@@ -39,7 +39,7 @@ The Book Club site is live and can be seen <a href="https://carmencantudo.github
     - [Main Languages Used](#main-languages-used)
     - [Frameworks, Libraries \& Programs Used](#frameworks-libraries--programs-used)
   - [Deployment](#deployment)
-    - [Using Github Pages](#using-github-pages)
+    - [Using GitHub Pages](#using-github-pages)
     - [How to Fork it](#how-to-fork-it)
     - [How to Clone it](#how-to-clone-it)
     - [Making a Local Clone](#making-a-local-clone)
@@ -73,7 +73,7 @@ The What we do section contains a welcome statement as well as an explanation of
 
 ![What we do section image](assets/images/what-we-do.png)
 
-On the What we are reading section of the page we find the books we are currently reading, with an image and the description. This section has a different background colour to focus on it.
+On the What we are reading section of the page, we find the books we are currently reading, with an image and the description. This section has a different background colour to focus on it.
 
 ![What we are reading section image](assets/images/what-we-are-reading.png)
 
@@ -144,7 +144,7 @@ There is also a thank you page, which appears like this:
 
 <details><summary> 404 error </summary>
 
-If a 404 "page not found" error occurs, the user will be led to a personalized error page that matches the site's aesthetic and includes a supportive message and a link to go Home.
+If a 404 "page not found" error occurs, the user will be led to a personalised error page that matches the site's aesthetic and includes a supportive message and a link to go Home.
 
 ![404 error page](assets/images/404-error.png)
 
@@ -153,10 +153,10 @@ If a 404 "page not found" error occurs, the user will be led to a personalized e
 
 ### Future Features
 
-- A page with members photographs.
+- A page with members' photographs.
 - A map with locations where we will meet.
 - Future events.
-- A carousel with the books photos in the books page.
+- A carousel with photos of the books in the books page.
 
 [Back to top](#book-club)
 
@@ -263,7 +263,7 @@ Thank you page
 - The website was constantly tested during development using Chrome dev tools.
 - Tested sign up and contact form with and without inputs in all fields.
 - Tested all links on all pages.
-- Verified that contact form cannot be submitted without the required information (First Name, Last Name, Email and Message) and once the information is submitted the Thank you page will be displayed.
+- Verified that the contact form cannot be submitted without the required information (First Name, Last Name, Email and Message) and once the information is submitted the Thank you page will be displayed.
 - Website tested in Chrome, Firefox, Microsoft Edge and Brave.
 - Lighthouse used to test webpage for Performance, Accessibility, Best Practices and SEO for desktop and mobile:
   ![Lighthouse Desktop Performance](assets/images/lighthouse.png)
@@ -282,14 +282,14 @@ Thank you page
 
 ### Validator Testing
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcarmencantudo.github.io%2Fbookclub%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcarmencantudo.github.io%2Fbookclub%2Findex.html).
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcarmencantudo.github.io%2Fbookclub%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcarmencantudo.github.io%2Fbookclub%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
 
 
 ### Bugs
 Debugging took place during the development and testing phases of the website's development. Testing was done on a regular basis. When issues were discovered, I used dev tools to see and test what would fix the problem.
-- The hero images weren’t’ showing correctly, they were too big, so I had to use the background cover property to fix it and make them be the same size as the screen.
+- The hero images weren’t showing correctly, they were too big, so I had to use the background cover property to fix it and make them be the same size as the screen.
 - When creating the book gallery on the books page, some of the books weren’t aligning correctly following the flexbox properties row wrap. I discovered the solution was that I needed to add another div to contain the images. Then all the book images are displayed perfectly.
 - When testing the website using an iPad, I discovered that the footer social links disappeared when trying to click on them. The problem was the gap space between them, so I deleted it and added some padding, and it’s working now.
 
@@ -302,20 +302,20 @@ Debugging took place during the development and testing phases of the website's 
 - CSS
 
 ### Frameworks, Libraries & Programs Used
-- Gitpod: to create my Html files & styling sheet before pushing the project to Github.
+- Gitpod: to create my Html files & styling sheet before pushing the project to GitHub.
 - GitHub: to store my repository for submission.
 - Balsamiq Wireframes: to make the wireframes for the website.
 - Adobe Illustrator and Procreate: to create the logo.
 - Google Fonts: for the font families, Amiri, Noto Sans, Playfair Display, Special Elite.
 - Am I Responsive?: to ensure the project looked good across all devices.
-- Cloudinary: to store, transform, optimize, and deliver the media assets.
+- Cloudinary: to store, transform, optimise, and deliver the media assets.
 - Markdown cheat sheet: to complete the Readme.
 
 [Back to top](#book-club)
 
 ## Deployment
 
-### Using Github Pages
+### Using GitHub Pages
 In the GitHub Repository from the project https://github.com/carmencantudo/bookclub/
 
 1. Click the 'Settings' Tab.
@@ -323,7 +323,7 @@ In the GitHub Repository from the project https://github.com/carmencantudo/bookc
 3. Select 'Main Branch' as the source.
 4. The Page will reload 'Settings' again.
 5. Scroll to GitHub pages heading and there will now be a clickable link https://carmencantudo.github.io/bookclub/
-6. Click this link for the live deployed page
+6. Click the link for the live deployed page.
 
 ### How to Fork it
 1. On GitHub, go to [CarmenCantudo/bookclub](https://github.com/carmencantudo/bookclub).
@@ -342,8 +342,8 @@ In the GitHub Repository from the project https://github.com/carmencantudo/bookc
 1. Locate the [Repository](https://github.com/carmencantudo/bookclub).
 2. Click "Code".
 3. Click Clone or Download.
-4. Copy Git URL from the dialogue box.
-5. Open a terminal window in a directory of your choosing using your preferred development editor.
+4. Copy the Git URL from the dialogue box.
+5. Open a terminal window in your choosen directory using your preferred development editor.
 6. Change the location to where you want the cloned directory to be.
 7. Type `git clone`, and then paste the URL you copied.
 8. Press Enter, and your local clone will be created.
