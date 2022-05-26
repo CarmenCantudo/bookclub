@@ -339,14 +339,14 @@ In the GitHub Repository from the project https://github.com/carmencantudo/bookc
 8. Press “Enter” to create your clone.
 
 ### Making a Local Clone
-1. Locate the [Repository](https://github.com/carmencantudo/bookclub) for this quiz.
+1. Locate the [Repository](https://github.com/carmencantudo/bookclub).
 2. Click "Code".
 3. Click Clone or Download.
 4. Copy Git URL from the dialogue box.
 5. Open a terminal window in a directory of your choosing using your preferred development editor.
 6. Change the location to where you want the cloned directory to be.
-6. Type `git clone`, and then paste the URL you copied.
-7. Press Enter, and your local clone will be created.
+7. Type `git clone`, and then paste the URL you copied.
+8. Press Enter, and your local clone will be created.
 
 [Back to top](#book-club)
 
