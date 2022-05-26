@@ -316,7 +316,7 @@ Debugging took place during the development and testing phases of the website's 
 ## Deployment
 
 ### Using Github Pages
-In the GitHub Repository from the project https://github.com/ carmencantudo/bookclub/
+In the GitHub Repository from the project https://github.com/carmencantudo/bookclub/
 
 1. Click the 'Settings' Tab.
 2. Scroll Down to the Git Hub Pages Heading.
@@ -326,7 +326,7 @@ In the GitHub Repository from the project https://github.com/ carmencantudo/book
 6. Click this link for the live deployed page
 
 ### How to Fork it
-1. On GitHub, go to [CarmenCantudo/bookclub](https://github.com/ carmencantudo/bookclub).
+1. On GitHub, go to [CarmenCantudo/bookclub](https://github.com/carmencantudo/bookclub).
 2. In the top right, click "Fork".
 
 ### How to Clone it
@@ -339,7 +339,7 @@ In the GitHub Repository from the project https://github.com/ carmencantudo/book
 8. Press “Enter” to create your clone.
 
 ### Making a Local Clone
-1. Locate the [Repository](https://github.com/CarmenCantudo/bookclub) for this quiz.
+1. Locate the [Repository](https://github.com/carmencantudo/bookclub) for this quiz.
 2. Click "Code".
 3. Click Clone or Download.
 4. Copy Git URL from the dialogue box.
